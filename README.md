@@ -43,9 +43,6 @@ A collection of LeetCode questions.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
-</div>
-
 ## Array
 |  |
 | ------- |
@@ -63,6 +60,7 @@ A collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0953-reverse-only-letters) |
@@ -83,4 +81,12 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
