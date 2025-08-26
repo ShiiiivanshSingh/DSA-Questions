@@ -1,9 +1,13 @@
 # DSA
 A collection of LeetCode questions.
 
-![Latest Commit](https://img.shields.io/github/last-commit/ShiiiivanshSingh/DSA-Questions)
-![GitHub Repo Activity](https://github-readme-stats.vercel.app/api/pin/?username=ShiiiivanshSingh&repo=DSA-Questions)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiiiivanshSingh&repo=DSA-Questions)
+
+![Latest Commit](https://img.shields.io/github/last-commit/ShiiiivanshSingh/DSA-Questions?style=flat-square)
+
+![GitHub Repo Activity](https://github-readme-stats.vercel.app/api/pin/?username=ShiiiivanshSingh&repo=DSA-Questions&theme=blue&show_owner=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiiiivanshSingh&theme=blue&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 
