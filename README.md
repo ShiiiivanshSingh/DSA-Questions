@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
 | [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
@@ -21,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
 | [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
