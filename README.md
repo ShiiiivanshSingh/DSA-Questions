@@ -1,6 +1,17 @@
+<div align="center">  
 <div align="center">
 
-# DSA
+[![DSA](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=70&section=header&text=%20DSA%20&fontSize=75&fontAlignY=100)](https://leetcode.com/u/ShivanshPratapSingh/)
+
+</div>
+
+
+  
+  <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
+  <img width="3168" height="792" alt="Shivansh Pratap Singh(1)" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
+</a>
+
+
 A collection of LeetCode questions.
 
 ## 📊 Repo Stats
@@ -41,8 +52,14 @@ A collection of LeetCode questions.
 ### 🎵 Now Playing
 ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=1DB954)
 
-<!---LeetCode Topics Start-->
+![20250404_203109](https://github.com/user-attachments/assets/9933b688-3610-4bac-8523-e145ed336030)
+
+<!---myau-->
 # LeetCode Topics
+
+</div>
+
+
 ## Array
 |  |
 | ------- |
