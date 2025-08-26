@@ -1,5 +1,11 @@
-# dsaa
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# DSA
+A collection of LeetCode questions.
+
+![Latest Commit](https://img.shields.io/github/last-commit/ShiiiivanshSingh/DSA-Questions)
+![GitHub Repo Activity](https://github-readme-stats.vercel.app/api/pin/?username=ShiiiivanshSingh&repo=DSA-Questions)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiiiivanshSingh&repo=DSA-Questions)
+
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
