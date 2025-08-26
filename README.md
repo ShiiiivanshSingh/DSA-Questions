@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
