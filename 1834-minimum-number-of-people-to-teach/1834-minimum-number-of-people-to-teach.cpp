@@ -7,12 +7,19 @@ public:
             int j= people[1] -1;
             unordered_set<int> total_lang(begin(languages[i]),end(languages[i]));
             bool talk =false;
-            for(int q = 0;q<languages[j].size();q++){
-                if(total_lang.count(languages[j][q])){
+
+            for(int lang : languages[j]){
+                if(total_lang.count(lang)){ 
                     talk = true;
                     break;
                 }
             }
+            // for(int q = 0;q<languages[j].size();q++){
+            //     if(total_lang.count(languages[j][q])){
+            //         talk = true;
+            //         break;
+            //     }
+            // }
             if(!talk){
                 users.insert(i);
                 users.insert(j);
