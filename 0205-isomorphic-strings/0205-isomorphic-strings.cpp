@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-    vector<int> charToIndex_s(128);
-    vector<int> charToIndex_t(128);
+    vector<int> seedhe(128);
+    vector<int> maut(128);
     for(int i=0;i<s.length();i++){
-        if(charToIndex_s[s[i]] != charToIndex_t[t[i]]) return 0;
-        charToIndex_s[s[i]] = i +1;
-        charToIndex_t[t[i]] = i +1;
+        if(seedhe[s[i]] != maut[t[i]]) return 0;
+        seedhe[s[i]] = i +1;
+        maut[t[i]] = i +1;
 
     }
     return 1; 
