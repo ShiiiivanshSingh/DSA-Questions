@@ -1,4 +1,8 @@
-<h2><a href="https://leetcode.com/problems/smallest-absent-positive-greater-than-average">4011. Smallest Absent Positive Greater Than Average</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-absent-positive-greater-than-average">4011. Smallest Absent Positive Greater Than Average</a></h2><h3>MY 200TH SUBMISSION!!</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f1d6658-1f21-4de8-8f04-e72ca22f404d" />
+
+
+<img width="1067" height="489" alt="image" src="https://github.com/user-attachments/assets/3de0c61d-483f-4451-8cb7-99bcce4a8f88" />
 
 <p>Return the <strong>smallest absent positive</strong> integer in <code>nums</code> such that it is <strong>strictly greater</strong> than the <strong>average</strong> of all elements in <code>nums</code>.</p>
 The <strong>average</strong> of an array is defined as the sum of all its elements divided by the number of elements.
