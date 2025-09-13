@@ -9,7 +9,6 @@ public:
         for(int x : nums) avg += x;
         avg /= nums.size();
 
-        
         int meow=max(1, (int)floor(avg) + 1);
         while(myau.count(meow)) meow++;
         return meow;
