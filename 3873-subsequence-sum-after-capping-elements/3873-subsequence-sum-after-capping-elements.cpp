@@ -1,11 +1,16 @@
 class Solution {
 public:
     vector<bool> subsequenceSumAfterCapping(vector<int>& nums, int k) {
+
+        // hallo !! myau myau stalker ヾ(＠⌒ー⌒＠)ノ
+
+
         sort(nums.begin(),nums.end());
         int n = nums.size();
         vector<bool> dp(k+1, false);
         vector<bool> answer(n, false);
         dp[0] = true;
+
 
         for(int i = 0, x=1; x<=n;x++){
             while(i<n && nums[i] <x){
@@ -14,7 +19,7 @@ public:
                 }
                 i++;
             }
-            int myau=n-i;
+            int myau=n-i; // ~~~///(^v^)\\\~~~
             for(int a=0;a<=myau && k>= a*x; a++){
                 if(dp[k-a*x] == 1){
                     answer[x-1] =1;
