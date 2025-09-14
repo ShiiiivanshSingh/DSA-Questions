@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/subsequence-sum-after-capping-elements">3873. Subsequence Sum After Capping Elements</a></h2><h3>Medium</h3><hr><p data-end="320" data-start="259">You are given an integer array <code>nums</code> of size <code>n</code> and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/subsequence-sum-after-capping-elements">3873. Subsequence Sum After Capping Elements</a> <br> yo check this out guys> 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/218b8aec-5b5b-4a69-abc5-4d581d73f1ea" /> </h2><h3>Medium</h3><hr><p data-end="320" data-start="259">You are given an integer array <code>nums</code> of size <code>n</code> and a positive integer <code>k</code>.</p>
+
 
 <p data-end="294" data-start="163">An array <strong>capped</strong> by value <code>x</code> is obtained by replacing every element <code>nums[i]</code> with <code>min(nums[i], x)</code>.</p>
 
