@@ -23,19 +23,10 @@ public:
                     }
                 }
         }
-
-
-
         return ans;
         }
 
 };
-
-
-
-
-
-
 
             // for(int j =0;j< cols ; j++){
             //     // if(mat[i][j] == 1) count++;
@@ -46,8 +37,6 @@ public:
             //     if(j == cols-1 || j<cols-1 && mat[i][j+1] == 1) count++; //down
             //     }
             // }
-
-
 
                     // long long count = 1LL * rows * (rows + 1) / 2 * cols * (cols + 1) / 2; 
         // // int count = 0;
