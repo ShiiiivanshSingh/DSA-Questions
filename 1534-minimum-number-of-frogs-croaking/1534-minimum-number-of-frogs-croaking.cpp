@@ -1,6 +1,6 @@
 class Solution {
 public:
-// i will comment this code so u think i use ai but mai real hu yeh shit ai nhi kar sakta shoutout ghAatak for his new album aai booo
+// i will add bunch of comments to this code so u think i use ai but mai real hu yeh shit ai nhi kar sakta 'n shoutout ghAatak for his new album aai booo
     int minNumberOfFrogs(string croakOfFrogs) {
         vector<int> phase(5,0); 
 // phase here refers to c->r->o->a->k id:0,1,2,3,4 which also refers to the fact that i hate mayur vihar phase 3 absolute sh#thole dotn go there m8
@@ -23,7 +23,8 @@ public:
             }
         }
             for(int i=0;i<4;i++){
-                if(phase[i] !=0) return -1;
+                if(phase[i] !=0) return -1; 
+// checking that if sm1 is croaking yet seee how loop is <4 i.e. last k will not be checked
             }
             return maxFrog;
     }
