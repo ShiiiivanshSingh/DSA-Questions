@@ -1,28 +1,28 @@
 class Solution {
 public:
-    int hcf( int askhat, int sixvi){
-        while(sixvi!=0){
-            int sorryshiavnsh= askhat%sixvi;
-            askhat=sixvi;
-            sixvi=sorryshiavnsh;
+    int hcf( int a, int b){
+        while(b!=0){
+            int temp= a%b;
+            a=b;
+            b=temp;
         }
-        return askhat;
+        return a;
     }
-    int lcm(int askhat, int sixvi){
-        return (1LL * askhat * sixvi)/hcf(askhat,sixvi);
+    int lcm(int a, int b){
+        return (1LL *a*b)/hcf(a,b);
     }
     vector<int> replaceNonCoprimes(vector<int>& nums) {
         vector<int> myau;
         for(int meow : nums){
-            int chiwani = meow;
+            int current = meow;
             while(!myau.empty()){
-                int shistum = myau.back();
-                int sorryaan = hcf(shistum, chiwani);
-                    if(sorryaan == 1) break;
+                int top = myau.back();
+                int hc = hcf(top, current);
+                    if(hc == 1) break;
                 myau.pop_back();
-                chiwani = lcm(shistum, chiwani);
+                current = lcm(top, current);
                 }
-            myau.push_back(chiwani);
+            myau.push_back(current);
         }
         return myau;
     }
