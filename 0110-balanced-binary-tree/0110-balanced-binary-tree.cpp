@@ -11,13 +11,13 @@
  */
 class Solution {
 public:
-    int check(TreeNode* root){
+    int meow(TreeNode* root){
         if(!root) return 0;
 
-        int right  = check(root-> right);
+        int right  = meow(root-> right);
         if(right == -1) return -1;
         
-        int left  = check(root-> left);
+        int left  = meow(root-> left);
         if( left == -1)   return -1;
 
         if(abs(left - right) > 1) return -1;
@@ -25,7 +25,7 @@ public:
         return 1 + max(right, left);
     }
     bool isBalanced(TreeNode* root) {
-        return check(root) != -1;
+        return meow(root) != -1;
 
     }
 };
