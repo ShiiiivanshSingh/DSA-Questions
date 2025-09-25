@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-
-
-
+//myau this question  is D. A n B
 
 static long long meow(const string &s, char c){
 
@@ -33,6 +30,13 @@ static long long meow(const string &s, char c){
     return sol;
 }
 
+
+
+
+
+
+
+
 int main(){
 
     int t;
@@ -53,3 +57,4 @@ int main(){
     return 0;
 
 }
+
