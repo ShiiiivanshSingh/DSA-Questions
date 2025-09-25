@@ -34,8 +34,6 @@ static long long meow(const string &s, char c){
 }
 
 int main(){
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
     int t;
     if(!(cin >> t)) return 0;
@@ -53,4 +51,5 @@ int main(){
         cout << sol << "\n";
     }
     return 0;
+
 }
