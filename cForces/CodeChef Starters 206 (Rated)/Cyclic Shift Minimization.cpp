@@ -10,7 +10,7 @@ int main(){
     if(!(cin>>t)) return 0;
     
     
-    
+
     
     while(t--){
         
