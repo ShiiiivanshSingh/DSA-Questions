@@ -22,3 +22,13 @@ int main(){
     }
     return 0;
 }
+
+
+
+
+// ALTERNATE LOGIC->
+    // while(t--){
+    //     int n; cin>>n;
+    //     cout<<(n-2)<<" "<<(n-2)*(n-1)/2<<"\n";
+    // }
+
