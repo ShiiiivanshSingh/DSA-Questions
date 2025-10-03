@@ -1,3 +1,5 @@
+//what even is this ts pmo 
+// (￣┰￣*)
 class Solution {
 public:
     typedef pair<int, pair<int,int>> a;
@@ -16,13 +18,13 @@ public:
             visited[row][col]  =1;
         }
     }
+
     for(int col = 0;col<n; col++){
         for(int row :{0,m-1}){
             boundary.push({heightMap[row][col], {row ,col}});
             visited[row][col]  =1;
         }
     }
-
 
     int water = 0;
 
@@ -46,6 +48,6 @@ public:
                 }
             }
         }
-    return water;
+    return water; //answer :)
     }
 };
