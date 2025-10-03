@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/trapping-rain-water-ii">407. Trapping Rain Water II</a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> integer matrix <code>heightMap</code> representing the height of each unit cell in a 2D elevation map, return <em>the volume of water it can trap after raining</em>.</p>
+<h2><a href="https://leetcode.com/problems/trapping-rain-water-ii">407. Trapping Rain Water II [Nahh i mean wtf is this question dawg]  </a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> integer matrix <code>heightMap</code> representing the height of each unit cell in a 2D elevation map, return <em>the volume of water it can trap after raining</em>.</p>
+
+<img width="1059" height="930" alt="image" src="https://github.com/user-attachments/assets/d5ee7fff-7f96-4c69-8ecc-772fa1b4511a" />
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
