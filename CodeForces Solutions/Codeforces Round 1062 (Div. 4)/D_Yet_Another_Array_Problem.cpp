@@ -1,6 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+// hmu here -> https://linktr.ee/ShivanshPratapSingh
+// ni haoo
+
 long long gcd(long long a, long long b) {
     while (b) { //maine ise ek test me glt kr diya tha i want to kmms for that lol
         a %= b; 
@@ -43,3 +47,4 @@ int main() {
     while (t--) okreprot();
     return 0;
 }
+
