@@ -12,7 +12,7 @@
 </a>
 
 
-A collection of LeetCode questions.
+A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 
 ## 📊 Repo Stats
 ![Latest Commit](https://img.shields.io/github/last-commit/ShiiiivanshSingh/DSA-Questions?style=flat-square&color=blue&labelColor=1a1a1a)
@@ -49,61 +49,10 @@ A collection of LeetCode questions.
 ![Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShiiiivanshSingh&theme=github_dark)
 
 
-### 🎵 Now Playing
-![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=1DB954)
 
 ![20250404_203109](https://github.com/user-attachments/assets/9933b688-3610-4bac-8523-e145ed336030)
 
-<!---myau-->
-# LeetCode Topics
 
-</div>
-
-
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
-| [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
-| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0151-reverse-words-in-a-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0151-reverse-words-in-a-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0345-reverse-vowels-of-a-string) |
-| [0953-reverse-only-letters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0953-reverse-only-letters) |
-## String
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
-| [0151-reverse-words-in-a-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0151-reverse-words-in-a-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0345-reverse-vowels-of-a-string) |
-| [0953-reverse-only-letters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0953-reverse-only-letters) |
-## Matrix
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
-| [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
-## Simulation
-|  |
-| ------- |
-| [0898-transpose-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0898-transpose-matrix) |
-## Depth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0463-island-perimeter) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
-## Recursion
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
-<!---LeetCode Topics End-->
+![CodeFoorces](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeForces%20Solutions)
+![CodeChef](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeChef%20Solutions)
+![Leetcode](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/Leetcode%20Solutions)
