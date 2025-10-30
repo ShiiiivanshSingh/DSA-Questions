@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-    int myau(TreeNode* root, int &ans){
+    int diameter   =0;
+    int myau(TreeNode* root, int &diameter  ){
         if(!root) return 0;
-        int let=  myau(root->left , ans);
-        int rigt= myau(root->right , ans);
+        int let=  myau(root->left , diameter  );
+        int rigt= myau(root->right , diameter  );
 
-        ans   = max(ans , let+ rigt);
-        cout << ans << " -> ";
-        cout << 1+ max(let, rigt) << "\n";
+        diameter     = max(diameter   , let+ rigt);
+        // cout << diameter   << " -> ";
+        // cout << 1+ max(let, rigt) << "\n";
         return 1+ max(let, rigt);
     }
 
 
     int diameterOfBinaryTree(TreeNode* root) {
-       int ans =0;
-       myau(root, ans);
-       return ans;
+   
+       myau(root, diameter  );
+       return diameter;
     }
 };
