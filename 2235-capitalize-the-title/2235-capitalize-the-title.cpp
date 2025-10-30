@@ -10,7 +10,7 @@ public:
             if(word.size()>2) word[0] = toupper(word[0]);
             war += word + ' ';
 
-            cout << " " << war  << " " << word  << " " << "\n"; 
+            cout << " " << word  << " -> " << war  << " " << "\n"; 
         }
         war.pop_back();
         return war;
