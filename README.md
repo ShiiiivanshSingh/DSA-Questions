@@ -1,12 +1,11 @@
 <div align="center">  
 <div align="center">
 
-[![DSA](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=70&section=header&text=%20DSA%20&fontSize=75&fontAlignY=100)](https://leetcode.com/u/ShivanshPratapSingh/)
+[![DSA](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=70&section=header&text=%20DSA%Questions%20&fontSize=35)](https://leetcode.com/u/ShivanshPratapSingh/)
 
 </div>
 
 
-  
   <a href="https://shiiiivanshsingh.github.io/intro/" target="_blank">
   <img width="3168" height="792" alt="Shivansh Pratap Singh(1)" src="https://github.com/user-attachments/assets/516ecf85-ed1e-4bcc-af8b-d00caae13485" />
 </a>
@@ -14,6 +13,14 @@
 
 A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 
+
+<br>
+
+
+  ![CodeForces](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeForces%20Solutions)
+![CodeChef](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeChef%20Solutions)
+![Leetcode](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/Leetcode%20Solutions)
+  
 ## 📊 Repo Stats
 ![Latest Commit](https://img.shields.io/github/last-commit/ShiiiivanshSingh/DSA-Questions?style=flat-square&color=blue&labelColor=1a1a1a)
 ![Repo Size](https://img.shields.io/github/repo-size/ShiiiivanshSingh/DSA-Questions?style=flat-square&color=blue&labelColor=1a1a1a)
@@ -53,6 +60,3 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ![20250404_203109](https://github.com/user-attachments/assets/9933b688-3610-4bac-8523-e145ed336030)
 
 
-![CodeFoorces](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeForces%20Solutions)
-![CodeChef](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeChef%20Solutions)
-![Leetcode](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/Leetcode%20Solutions)
