@@ -7,7 +7,8 @@ Check me out here ><
 [sha-vinshi](https://codeforces.com/profile/sha-vinshi)
 
 
- **Rating**: i do unrated
+ **Rating**:  1073 (max. newbie, 1073) 30 oct
+ 
 
 
 Feel free to reach out if youre stalking me this far >.<
