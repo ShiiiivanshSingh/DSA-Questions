@@ -71,6 +71,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -104,9 +105,14 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [2235-capitalize-the-title](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2235-capitalize-the-title) |
 ## Hash Table
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
