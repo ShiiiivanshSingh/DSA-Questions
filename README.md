@@ -103,6 +103,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1833-find-the-highest-altitude) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
@@ -148,4 +149,12 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
