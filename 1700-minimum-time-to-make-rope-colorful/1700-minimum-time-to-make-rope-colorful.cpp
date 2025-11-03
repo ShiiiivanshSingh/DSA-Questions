@@ -7,10 +7,10 @@ public:
 
        for(int i=1;i<n ; i++){
         if(colors[i] == colors[i-1]){
+            // cout <<  time << " " <<  neededTime[i] << endl;
             time += min(neededTime[i], neededTime[i-1]);
-
             neededTime[i] = max(neededTime[i], neededTime[i-1]);
-
+            // cout <<  time << " " <<  neededTime[i] << endl<< endl;
         }
        } 
     return time;
