@@ -106,6 +106,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
+| [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0724-find-pivot-index) |
@@ -158,6 +159,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Linked List
@@ -191,4 +193,12 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
