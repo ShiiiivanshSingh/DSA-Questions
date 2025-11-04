@@ -103,6 +103,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
@@ -180,12 +181,14 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
