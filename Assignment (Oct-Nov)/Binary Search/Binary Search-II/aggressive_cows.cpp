@@ -13,6 +13,18 @@ bool canPlaceBF(const vector<int>& stalls, int cows, int dist) {
     return false;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 int aggressiveCowsBF(vector<int>& stalls, int cows) {
     sort(stalls.begin(), stalls.end());
     int maxDist = stalls.back() - stalls.front();
