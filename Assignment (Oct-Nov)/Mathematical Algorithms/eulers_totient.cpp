@@ -9,6 +9,7 @@ int phi(int n) {
     }
     if (n > 1)
         result -= result / n;
+    
     return result;
 }
 
