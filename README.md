@@ -110,6 +110,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
@@ -206,6 +207,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
