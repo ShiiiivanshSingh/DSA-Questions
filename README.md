@@ -107,6 +107,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
@@ -141,6 +142,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -179,6 +181,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
