@@ -188,6 +188,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
