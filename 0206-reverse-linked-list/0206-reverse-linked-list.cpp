@@ -9,28 +9,17 @@
  * };
  */
 class Solution {
-public: 
+public:
     ListNode* reverseList(ListNode* head) {
-        // ListNode *curr = head;
-        // ListNode *prev = NULL;
-        if(head == NULL|| head -> next ==NULL) return head;
 
+        if(!head || !head->next) return head;
+        
+        ListNode* buh = reverseList(head->next);
 
-        ListNode *new_head = reverseList(head -> next);
-
-        head -> next -> next = head;
+        head-> next-> next = head;
         head -> next = NULL;
         
-        // ListNode *front = head->next;
-        // front-> next = head;
-        // head->next = NULL;
-         return new_head;
-
-    //     while(curr != NULL){
-    //         prev = curr-> prev;
-    //         curr -> val = head-> prev;
-    //         curr -> next= head->prev ->val;
-    // prev = curr->;
-     }
- 
+        return buh;
+        
+    }
 };
