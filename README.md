@@ -205,6 +205,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0021-merge-two-sorted-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0237-delete-node-in-a-linked-list) |
@@ -252,6 +253,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
@@ -260,6 +262,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
@@ -298,9 +301,14 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
