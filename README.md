@@ -129,6 +129,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -218,6 +219,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Backtracking
 |  |
 | ------- |
