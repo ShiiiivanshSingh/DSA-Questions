@@ -131,6 +131,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
@@ -194,6 +195,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
