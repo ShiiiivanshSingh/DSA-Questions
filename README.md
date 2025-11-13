@@ -151,6 +151,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2235-capitalize-the-title](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2235-capitalize-the-title) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
@@ -297,6 +299,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Counting
 |  |
 | ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
