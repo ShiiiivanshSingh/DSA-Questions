@@ -66,6 +66,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -167,6 +168,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0206-reverse-linked-list) |
@@ -204,6 +206,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
