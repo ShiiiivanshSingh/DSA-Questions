@@ -154,6 +154,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2235-capitalize-the-title](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2235-capitalize-the-title) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Hash Table
 |  |
@@ -185,6 +186,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,4 +326,8 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
