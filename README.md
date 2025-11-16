@@ -69,6 +69,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
@@ -152,6 +153,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2235-capitalize-the-title](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2235-capitalize-the-title) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
