@@ -91,6 +91,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -106,6 +107,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -125,6 +127,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
@@ -173,6 +176,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -330,6 +334,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
