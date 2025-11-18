@@ -347,5 +347,6 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
