@@ -135,6 +135,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
@@ -218,6 +219,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -268,6 +270,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -276,6 +279,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
@@ -288,6 +292,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -296,6 +301,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 ## Breadth-First Search
 |  |
