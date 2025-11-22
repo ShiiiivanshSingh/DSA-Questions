@@ -74,6 +74,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
