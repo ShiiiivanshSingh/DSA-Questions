@@ -387,6 +387,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0620-not-boring-movies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1801-average-time-of-process-per-machine) |
