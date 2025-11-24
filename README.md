@@ -143,6 +143,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -342,6 +343,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Bit Manipulation
 |  |
 | ------- |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
 |  |
