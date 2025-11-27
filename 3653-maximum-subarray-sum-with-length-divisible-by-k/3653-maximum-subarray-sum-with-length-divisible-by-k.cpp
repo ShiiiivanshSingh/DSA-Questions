@@ -9,14 +9,14 @@ public:
 
         for(int i =0 ;i<nums.size(); i++){
             prefix += nums[i];
-            int len = ( i+1) % k;
+            int len = (i+1) % k;
+
             if ((i + 1) % k == 0) temp = max(temp, prefix);
 
-            if(sum[len] != LLONG_MAX) {
-                  temp = max(temp , prefix - sum[len]);
-            }
+            if(sum[len] != LLONG_MAX) temp = max(temp , prefix - sum[len]);
+            
             sum[len] = min(sum[len], prefix);
-         }
+        }
         return temp;
     }
 };
