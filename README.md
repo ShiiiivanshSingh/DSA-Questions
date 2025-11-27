@@ -161,6 +161,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
@@ -172,6 +173,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1833-find-the-highest-altitude) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2625-increment-submatrices-by-one) |
+| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
 ## Recursion
