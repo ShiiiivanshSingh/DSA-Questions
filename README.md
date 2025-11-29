@@ -77,6 +77,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
