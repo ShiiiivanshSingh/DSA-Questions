@@ -67,6 +67,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
