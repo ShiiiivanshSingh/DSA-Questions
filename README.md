@@ -134,6 +134,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -244,6 +245,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -315,6 +317,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
