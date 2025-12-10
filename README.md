@@ -79,6 +79,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -449,4 +451,12 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2087-confirmation-rate](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
