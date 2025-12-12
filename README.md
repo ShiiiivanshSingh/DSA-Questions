@@ -191,6 +191,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -201,6 +202,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
@@ -231,6 +233,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
