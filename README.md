@@ -74,6 +74,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -93,6 +94,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Tree
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1833-find-the-highest-altitude) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
