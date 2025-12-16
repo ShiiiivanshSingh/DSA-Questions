@@ -203,6 +203,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2235-capitalize-the-title](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2235-capitalize-the-title) |
@@ -218,6 +219,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
