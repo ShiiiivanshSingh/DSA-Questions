@@ -141,6 +141,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
@@ -215,6 +216,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
@@ -297,6 +299,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
@@ -314,6 +317,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 ## Stack
 |  |
