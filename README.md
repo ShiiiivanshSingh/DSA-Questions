@@ -87,6 +87,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -148,6 +149,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
