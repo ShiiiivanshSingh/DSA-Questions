@@ -69,6 +69,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
+| [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -208,6 +209,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
+| [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -328,6 +330,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
