@@ -68,6 +68,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -244,6 +245,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 ## Queue
