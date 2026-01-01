@@ -69,6 +69,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0002-add-two-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -148,6 +149,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0088-merge-sorted-array) |
