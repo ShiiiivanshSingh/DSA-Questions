@@ -104,6 +104,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
@@ -124,6 +125,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
@@ -133,6 +135,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -387,6 +390,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
