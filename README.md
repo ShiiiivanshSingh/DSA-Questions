@@ -90,6 +90,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -156,6 +157,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -435,6 +437,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
