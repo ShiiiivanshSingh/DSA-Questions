@@ -155,6 +155,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0027-remove-element](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
@@ -338,6 +339,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 ## Stack
 |  |
