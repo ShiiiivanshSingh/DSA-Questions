@@ -155,6 +155,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0027-remove-element](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
@@ -236,6 +237,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
