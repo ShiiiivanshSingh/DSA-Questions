@@ -198,6 +198,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -399,6 +400,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 ## Breadth-First Search
 |  |
