@@ -199,6 +199,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -251,6 +252,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -462,6 +464,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Enumeration
 |  |
 | ------- |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Database
 |  |
