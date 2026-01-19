@@ -154,6 +154,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0001-two-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
@@ -377,6 +378,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0086-partition-list) |
