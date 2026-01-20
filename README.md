@@ -93,6 +93,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -169,6 +170,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0088-merge-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
