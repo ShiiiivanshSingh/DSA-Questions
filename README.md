@@ -105,6 +105,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -127,6 +128,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -139,6 +141,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -358,6 +361,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
