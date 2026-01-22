@@ -151,6 +151,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0543-diameter-of-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
 ## Array
@@ -196,6 +197,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1833-find-the-highest-altitude) |
+| [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -342,6 +344,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
+| [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2625-increment-submatrices-by-one) |
@@ -427,6 +430,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
