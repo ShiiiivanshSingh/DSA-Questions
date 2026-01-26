@@ -191,6 +191,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1306-minimum-absolute-difference](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1306-minimum-absolute-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -419,6 +420,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1306-minimum-absolute-difference](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1306-minimum-absolute-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2263-maximum-running-time-of-n-computers) |
