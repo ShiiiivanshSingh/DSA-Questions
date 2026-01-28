@@ -71,6 +71,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0050-powx-n](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -120,6 +121,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
