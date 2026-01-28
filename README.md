@@ -72,6 +72,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -93,6 +94,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0120-triangle) |
@@ -462,6 +464,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Number Theory
 |  |
