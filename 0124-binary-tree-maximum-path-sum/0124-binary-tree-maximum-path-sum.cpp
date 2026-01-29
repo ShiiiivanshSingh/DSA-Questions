@@ -18,10 +18,8 @@ int ans = INT_MIN;
         int r =  max(0 , dfs(root->right));
         int best  = root->val + l + r;
         ans  = max(ans , best);
-        
-        return root->val + max(l ,r);
-        
 
+        return root->val + max(l ,r);
     }
 
     int maxPathSum(TreeNode* root) {
