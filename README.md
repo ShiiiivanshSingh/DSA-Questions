@@ -119,6 +119,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0543-diameter-of-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
@@ -144,6 +145,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0543-diameter-of-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3058-maximum-number-of-k-divisible-components) |
