@@ -161,6 +161,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1300-critical-connections-in-a-network) |
 | [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
@@ -569,4 +570,9 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
+| [1300-critical-connections-in-a-network](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
