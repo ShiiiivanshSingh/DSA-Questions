@@ -3,14 +3,14 @@ public:
     int countCollisions(string directions) {
         int n =directions.size();
         int left=0;
-        int right =n-1;
+        int right =n-1; //collisions are unavoidable.
 
         while(left < n  && directions[left] == 'L'){
-            left++;
+            left++; //no collision is possible
         }
 
         while(right>= left  && directions[right] == 'R'){
-            right--;
+            right--; //no collision is possible
         }
 cout << left << " and " << right << endl;
 
@@ -18,7 +18,7 @@ cout << left << " and " << right << endl;
         int coll = 0;
         for(int i= left; i<=right;i++){
             if(directions[i] != 'S'){
-                coll++;
+                coll++;  // CAR not stationary will collide.
             }
         }
         // for(char c: directions){
