@@ -135,6 +135,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
+| [4079-maximum-capacity-within-budget](https://github.com/ShiiiivanshSingh/dsaa/tree/master/4079-maximum-capacity-within-budget) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2625-increment-submatrices-by-one) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [4079-maximum-capacity-within-budget](https://github.com/ShiiiivanshSingh/dsaa/tree/master/4079-maximum-capacity-within-budget) |
 ## String
 |  |
 | ------- |
