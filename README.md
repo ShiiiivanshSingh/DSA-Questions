@@ -210,6 +210,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -375,6 +376,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
@@ -568,6 +570,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
