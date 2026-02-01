@@ -7,9 +7,9 @@ public:
             else if ((c >= '0' && c <= '9') || c == ' ') continue;
             else con++;
         }
-        cout <<con << v<<a;
+       
                 if(con>0) a = floor(v / con);
-    cout << endl <<con << v<<a;
+   
         return a;
     }
 };
