@@ -129,6 +129,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -200,6 +201,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
