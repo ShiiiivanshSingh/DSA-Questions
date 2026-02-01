@@ -236,6 +236,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [4199-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/ShiiiivanshSingh/dsaa/tree/master/4199-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
