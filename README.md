@@ -77,6 +77,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
+| [1013-fibonacci-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -103,6 +104,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
+| [1013-fibonacci-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1013-fibonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -307,6 +309,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -491,6 +494,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Number Theory
 |  |
