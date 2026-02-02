@@ -75,6 +75,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
+| [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -100,6 +101,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0120-triangle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
+| [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -577,6 +579,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Union-Find
 |  |
