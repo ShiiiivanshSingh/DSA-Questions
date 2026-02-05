@@ -93,6 +93,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
@@ -265,6 +266,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
@@ -427,6 +429,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0019-remove-nth-node-from-end-of-list) |
