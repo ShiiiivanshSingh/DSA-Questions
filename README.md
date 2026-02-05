@@ -242,6 +242,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3651-transformed-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -392,6 +393,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2317-count-collisions-on-a-road](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [3651-transformed-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3651-transformed-array) |
 ## Backtracking
 |  |
 | ------- |
