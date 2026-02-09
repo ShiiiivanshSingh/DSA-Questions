@@ -239,6 +239,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2294-minimum-time-to-complete-trips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2625-increment-submatrices-by-one) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -306,6 +307,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -459,6 +461,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -544,6 +547,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
