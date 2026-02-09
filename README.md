@@ -203,6 +203,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
@@ -464,6 +465,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0088-merge-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1306-minimum-absolute-difference](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1306-minimum-absolute-difference) |
@@ -614,4 +616,8 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1300-critical-connections-in-a-network) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
