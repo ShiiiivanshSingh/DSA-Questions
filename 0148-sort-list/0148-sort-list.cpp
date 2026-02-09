@@ -8,42 +8,44 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ // find middle node
+ // split 2 half
+ // recr. sort
+ // merge2sorted
 class Solution {
 public:
-    ListNode* mid(ListNode* head){
-        ListNode* slow = head;
+    ListNode* middle(ListNode* head){
+        if(!head || !head->next) return head;
         ListNode* fast = head->next;
-
+        ListNode* slow = head;
         while(fast && fast->next){
-            slow = slow->next;
+            slow =slow->next;
             fast = fast->next->next;
         }
-    return slow;
+        return slow;
     }
-    ListNode* merge(ListNode* l1, ListNode* l2) {
-        if(!l1 ) return l2;
-        if(!l2) return l1;
-        ListNode* result;
-
-        if(l1->val > l2->val){
-            result = l2;
-            result->next = merge(l1, l2->next);
+    ListNode* merge2sorted(ListNode* a , ListNode* b){
+        ListNode* final;
+        if(!a) return b;
+        if(!b) return a;
+        if(a->val > b->val){
+            final = b;
+            final->next = merge2sorted(a  ,b->next);
         }   else {
-            result = l1;
-            result->next = merge(l1->next ,l2);
+            final = a;
+            final->next = merge2sorted(a->next, b);
         }
-    return result;
+        return final; 
     }
-
     ListNode* sortList(ListNode* head) {
-        if(!head || !head->next) return head;
-
-        ListNode* middle= mid(head);
-        ListNode* right = middle->next;
-        middle->next = NULL;
-        ListNode* x = sortList(right);
-        ListNode* y =sortList(head);
-
-        return merge(x ,y);
+       if(!head || !head->next) return head;
+        
+        ListNode* middle_pos = middle(head);
+        ListNode* rightside = middle_pos->next;
+            middle_pos->next = NULL;
+        ListNode* a = sortList(rightside);
+        ListNode* b = sortList(head);
+        return merge2sorted(b,a);
     }
 };
