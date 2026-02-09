@@ -7,13 +7,13 @@ public:
         for(int i=0;i<n;i++){
             int left = i+1,  right = n-1;
             while(left< right){
-                int sum = nums[i] + nums[left] + nums[right];
-                if(abs(sum  - target ) < abs ( meow - target)) meow = sum;
-                if(sum < target) left++;
-                else if (sum > target) right--;
+                int sum = nums[left] + nums[right] + nums[i];
+                if(abs(sum - target) < abs(meow -target)) meow = sum;
+                if(sum<target) left++;
+                else if(sum>target) right--;
                 else return sum;
             }
         }
-        return meow;
+            return meow;
     }
 };
