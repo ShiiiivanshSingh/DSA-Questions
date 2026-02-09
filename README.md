@@ -182,6 +182,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0001-two-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0027-remove-element) |
@@ -439,6 +440,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -460,6 +462,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0088-merge-sorted-array) |
