@@ -232,6 +232,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1833-find-the-highest-altitude) |
 | [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2122-count-special-quadruplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2122-count-special-quadruplets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -307,6 +308,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
+| [2122-count-special-quadruplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2122-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -548,6 +550,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Enumeration
 |  |
 | ------- |
+| [2122-count-special-quadruplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
