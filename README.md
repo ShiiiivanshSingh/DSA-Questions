@@ -245,6 +245,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
