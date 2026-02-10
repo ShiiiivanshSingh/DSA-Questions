@@ -171,6 +171,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1300-critical-connections-in-a-network) |
@@ -357,6 +358,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -493,6 +495,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
@@ -618,10 +621,12 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
+| [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
 | [1300-critical-connections-in-a-network](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1300-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
