@@ -227,6 +227,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1656-count-good-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -553,6 +554,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
