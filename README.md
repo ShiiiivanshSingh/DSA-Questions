@@ -167,6 +167,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
@@ -200,6 +201,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -290,6 +292,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -402,6 +405,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0036-valid-sudoku](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0741-cherry-pickup](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0741-cherry-pickup) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
@@ -428,6 +432,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0037-sudoku-solver](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
 ## Stack
 |  |
