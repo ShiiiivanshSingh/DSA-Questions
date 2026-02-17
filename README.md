@@ -437,6 +437,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0046-permutations](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
 ## Stack
 |  |
@@ -540,6 +541,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0401-binary-watch) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
