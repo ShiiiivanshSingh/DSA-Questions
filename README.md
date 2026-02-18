@@ -589,6 +589,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0176-second-highest-salary](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0570-managers-with-at-least-5-direct-reports) |
