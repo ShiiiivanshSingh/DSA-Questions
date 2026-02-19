@@ -299,6 +299,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0139-word-break](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
+| [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -485,6 +486,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
