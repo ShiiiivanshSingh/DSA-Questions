@@ -300,6 +300,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -324,6 +325,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0141-linked-list-cycle](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
@@ -502,6 +504,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0088-merge-sorted-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
