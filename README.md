@@ -175,6 +175,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0543-diameter-of-binary-tree) |
@@ -214,6 +215,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0139-word-break](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
@@ -418,6 +420,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0074-search-a-2d-matrix](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0741-cherry-pickup](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0741-cherry-pickup) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
@@ -526,6 +529,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | ------- |
 | [0100-same-tree](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
@@ -658,6 +662,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
 ## Graph Theory
