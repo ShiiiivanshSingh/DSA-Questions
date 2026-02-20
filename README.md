@@ -354,6 +354,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0239-sliding-window-maximum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
@@ -453,6 +454,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0084-largest-rectangle-in-histogram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
@@ -677,4 +679,8 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
