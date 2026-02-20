@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int calculateMinimumHP(vector<vector<int>>& dungeon) {
+        int m =dungeon.size();
+        int n =dungeon[0].size();
+        int health =0;
+
+        vector<vector<int>> dp(m+1, vector<int>(n+1, 10e7));
+        dp[m][n-1] =1;
+        dp[m-1][n] =1;
+
+        for(int i=m-1;i>=0;i--){
+            for(int j=n-1;j>=0;j--){
+                int hp = min(dp[i+1][j] , dp[i][j+1]) - dungeon[i][j] ;
+                if (hp <= 0)    dp[i][j] = 1;
+                else    dp[i][j] = hp;
+            }   
+        }
+        return dp[0][0];
+    }
+};
