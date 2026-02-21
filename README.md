@@ -75,6 +75,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0069-sqrtx](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
@@ -216,6 +217,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -494,6 +496,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0142-linked-list-cycle-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
