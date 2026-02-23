@@ -113,6 +113,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
@@ -152,6 +153,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -233,6 +235,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
@@ -528,6 +531,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0242-valid-anagram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
