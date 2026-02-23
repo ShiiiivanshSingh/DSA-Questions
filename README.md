@@ -80,6 +80,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
+| [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
 | [1013-fibonacci-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -242,6 +243,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0741-cherry-pickup](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0907-koko-eating-bananas) |
+| [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1137-height-checker) |
@@ -525,6 +527,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
 | [1137-height-checker](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1306-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
