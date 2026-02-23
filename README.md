@@ -113,6 +113,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0688-knight-probability-in-chessboard) |
 | [0741-cherry-pickup](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0741-cherry-pickup) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
@@ -233,6 +234,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
@@ -694,4 +696,12 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0232-implement-queue-using-stacks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
