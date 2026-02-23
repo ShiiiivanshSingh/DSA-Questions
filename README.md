@@ -111,6 +111,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0174-dungeon-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -310,6 +311,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -502,6 +504,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0234-palindrome-linked-list](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
