@@ -4,24 +4,19 @@ public:
         int m  = grid.size();
         int n  = grid[0].size();
         vector<int> ans;
-        for (int i=0; i< n ;i++){
-            int row = 0, col = i;
-            bool isStuck =0; // currently freeflowing
-            while(col  < n && row < m){
-                if(grid[row][col] == 1 && col != n-1 && grid[row][col + 1] != -1){
-                    row++;
-                    col++; // right span
-                } else if(grid[row][col] == -1 && col !=0 && grid[row][col - 1] != 1 ){
-                    row++;
-                    col--;  // left span
-                } else {
-                    isStuck =1;
-                    break; // unretrievable
+        for(int i=0;i<n;i++){
+            int currentCol = i;
+            for(int j =0 ; j<m;j++){
+                int nextCol = currentCol + grid[j][currentCol];
+                if(nextCol <0 || nextCol >=n || grid[j][currentCol] != grid[j][nextCol] ){
+                    currentCol = -1;
+                    break; // block
                 }
+                currentCol = nextCol;
             }
-            if(isStuck) ans.push_back(-1);
-            else ans.push_back(col);
+            ans.push_back(currentCol);
         }
+
         return ans;
     }
 };
