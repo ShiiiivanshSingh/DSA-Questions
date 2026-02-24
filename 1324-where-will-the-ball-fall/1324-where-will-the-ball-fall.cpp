@@ -10,10 +10,10 @@ public:
             while(col  < n && row < m){
                 if(grid[row][col] == 1 && col != n-1 && grid[row][col + 1] != -1){
                     row++;
-                    col++;
+                    col++; // right span
                 } else if(grid[row][col] == -1 && col !=0 && grid[row][col - 1] != 1 ){
                     row++;
-                    col--;
+                    col--;  // left span
                 } else {
                     isStuck =1;
                     break; // unretrievable
