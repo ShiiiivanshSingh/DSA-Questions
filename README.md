@@ -254,6 +254,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1306-minimum-absolute-difference) |
+| [1324-where-will-the-ball-fall](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -443,6 +444,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0741-cherry-pickup](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0741-cherry-pickup) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
+| [1324-where-will-the-ball-fall](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1324-where-will-the-ball-fall) |
 | [2103-find-all-groups-of-farmland](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2103-find-all-groups-of-farmland) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -451,6 +453,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0735-asteroid-collision) |
+| [1324-where-will-the-ball-fall](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1324-where-will-the-ball-fall) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
