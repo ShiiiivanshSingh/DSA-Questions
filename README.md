@@ -321,6 +321,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
+| [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1297-maximum-number-of-balloons) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -348,6 +349,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1297-maximum-number-of-balloons) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
 | [2122-count-special-quadruplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2122-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -594,6 +596,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ## Counting
 |  |
 | ------- |
+| [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1297-maximum-number-of-balloons) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3778-transform-array-by-parity](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
