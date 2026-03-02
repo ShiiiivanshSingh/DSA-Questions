@@ -91,6 +91,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2857-total-distance-traveled](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2857-total-distance-traveled) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -359,6 +360,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2122-count-special-quadruplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2122-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
