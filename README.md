@@ -81,6 +81,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
+| [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1013-fibonacci-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -250,6 +251,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0907-koko-eating-bananas) |
 | [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
+| [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1036-rotting-oranges](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1036-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1137-height-checker) |
@@ -349,6 +351,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
+| [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1297-maximum-number-of-balloons) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1694-make-sum-divisible-by-p) |
@@ -583,6 +586,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0401-binary-watch) |
+| [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
