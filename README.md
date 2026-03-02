@@ -91,6 +91,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2857-total-distance-traveled](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2857-total-distance-traveled) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -464,6 +465,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2317-count-collisions-on-a-road](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2857-total-distance-traveled](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2857-total-distance-traveled) |
 | [3651-transformed-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/3651-transformed-array) |
 ## Backtracking
 |  |
