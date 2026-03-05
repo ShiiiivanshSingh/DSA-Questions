@@ -333,6 +333,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1297-maximum-number-of-balloons) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2235-capitalize-the-title](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2244-number-of-laser-beams-in-a-bank) |
