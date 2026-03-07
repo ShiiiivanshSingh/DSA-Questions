@@ -284,6 +284,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [2294-minimum-time-to-complete-trips](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2294-minimum-time-to-complete-trips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2442-number-of-arithmetic-triplets) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2625-increment-submatrices-by-one) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -606,6 +607,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Memoization
 |  |
 | ------- |
