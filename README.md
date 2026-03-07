@@ -265,6 +265,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [1306-minimum-absolute-difference](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1306-minimum-absolute-difference) |
 | [1324-where-will-the-ball-fall](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1324-where-will-the-ball-fall) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -334,6 +335,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0696-count-binary-substrings) |
 | [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1297-maximum-number-of-balloons) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -490,6 +492,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0079-word-search](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Stack
 |  |
 | ------- |
@@ -606,6 +609,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0401-binary-watch](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0401-binary-watch) |
 | [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ShiiiivanshSingh/dsaa/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Memoization
