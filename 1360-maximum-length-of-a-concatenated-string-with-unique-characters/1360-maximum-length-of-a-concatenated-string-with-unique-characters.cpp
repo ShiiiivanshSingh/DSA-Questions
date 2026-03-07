@@ -1,37 +1,31 @@
 class Solution {
 public:
 
-    bool ok(string s){
-        int f[26]={0};
+    int dfs(int i,string cur,vector<string>& arr){
 
-        for(char c:s){
-            f[c-'a']++;
-            if(f[c-'a']>1) return false;
-        }
+        int ans=cur.size();
 
-        return true;
-    }
+        for(int j=i;j<arr.size();j++){
 
-    int maxLength(vector<string>& arr) {
+            string t=cur+arr[j];
+            vector<int> f(26,0);
+            bool ok=true;
 
-        int n=arr.size();
-        int ans=0;
-
-        for(int m=0;   m<(1<<n)  ;m++){
-
-            string s="";
-
-            for(int i=0;i<n;i++){
-                if(m   & (1<<i)){
-                    s +=arr[i];
+            for(char c:t){
+                if(++f[c-'a']>1){
+                    ok=false;
+                    break;
                 }
             }
 
-            if(ok(s)){
-                ans=max (ans,  ( int)s.size()  );
-            }
+            if(ok)
+                ans=max(ans,dfs(j+1,t,arr));
         }
 
         return ans;
+    }
+
+    int maxLength(vector<string>& arr) {
+        return dfs(0,"",arr);
     }
 };
