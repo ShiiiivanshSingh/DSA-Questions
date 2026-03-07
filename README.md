@@ -78,6 +78,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0923-super-egg-drop) |
 | [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
@@ -242,6 +243,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
@@ -358,6 +360,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0242-valid-anagram](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
 | [0994-prison-cells-after-n-days](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0994-prison-cells-after-n-days) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShiiiivanshSingh/dsaa/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -732,6 +735,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -740,4 +744,8 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
