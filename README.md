@@ -21,7 +21,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 ![CodeChef](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/CodeChef%20Solutions)
 ![Leetcode](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/main/Leetcode%20Solutions)
   
-## ð Repo Stats
+## Ã°ÂÂÂ Repo Stats
 ![Latest Commit](https://img.shields.io/github/last-commit/ShiiiivanshSingh/DSA-Questions?style=flat-square&color=blue&labelColor=1a1a1a)
 ![Repo Size](https://img.shields.io/github/repo-size/ShiiiivanshSingh/DSA-Questions?style=flat-square&color=blue&labelColor=1a1a1a)
 ![Code Size](https://img.shields.io/github/languages/code-size/ShiiiivanshSingh/DSA-Questions?style=flat-square&color=blue&labelColor=1a1a1a)
@@ -32,27 +32,27 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 
 
 
-### ð Commit Graph
+### Ã°ÂÂÂ Commit Graph
 ![GitHub Repo Activity](https://github-readme-stats.vercel.app/api/pin/?username=ShiiiivanshSingh&repo=DSA-Questions&theme=tokyonight&show_owner=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShiiiivanshSingh&repo=DSA-Questions&bg_color=0d1117&color=58a6ff&line=38bdae&point=f85149&area=true&hide_border=true)
 
-### â° Commit Time Breakdown
+### Ã¢ÂÂ° Commit Time Breakdown
 ![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShiiiivanshSingh&theme=github_dark&utcOffset=5)
 
-### ð  Tech Used
+### Ã°ÂÂÂ  Tech Used
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=1a1a1a)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&labelColor=1a1a1a)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&labelColor=1a1a1a)
 
 
-### ð Contributors
+### Ã°ÂÂÂ Contributors
 ![Contributors](https://img.shields.io/github/contributors/ShiiiivanshSingh/DSA-Questions?color=blue&labelColor=1a1a1a)
 
-### ð Profile Summary
+### Ã°ÂÂÂ Profile Summary
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShiiiivanshSingh&theme=github_dark)
 
-### ð Commit Languages Breakdown
+### Ã°ÂÂÂ Commit Languages Breakdown
 ![Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShiiiivanshSingh&theme=github_dark)
 
 
@@ -121,6 +121,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0322-coin-change](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -245,6 +246,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0419-battleships-in-a-board](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0496-next-greater-element-i) |
@@ -418,6 +420,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0770-couples-holding-hands](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0770-couples-holding-hands) |
@@ -561,6 +564,7 @@ A collection of DSA Questions By Shivansh Pratap Singh (CSE)!!
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0274-h-index) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0927-sum-of-subsequence-widths](https://github.com/ShiiiivanshSingh/dsaa/tree/master/0927-sum-of-subsequence-widths) |
