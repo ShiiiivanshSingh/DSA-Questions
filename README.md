@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
+| [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0185-department-top-three-salaries) |
 | [1135-customers-who-bought-all-products](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1135-customers-who-bought-all-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
