@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
