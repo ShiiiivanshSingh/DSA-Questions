@@ -30,4 +30,5 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0185-department-top-three-salaries) |
+| [1135-customers-who-bought-all-products](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
