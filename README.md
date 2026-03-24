@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
@@ -78,6 +79,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
