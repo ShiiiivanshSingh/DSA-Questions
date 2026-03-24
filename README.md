@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
