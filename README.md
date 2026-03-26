@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -33,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
