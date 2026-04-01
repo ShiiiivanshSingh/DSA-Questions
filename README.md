@@ -15,6 +15,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Math
@@ -52,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 ## Database
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
 |  |
@@ -131,4 +134,5 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
