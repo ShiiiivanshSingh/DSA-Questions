@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -93,6 +94,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
@@ -125,4 +127,8 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
