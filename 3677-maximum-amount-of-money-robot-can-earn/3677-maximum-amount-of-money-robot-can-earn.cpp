@@ -6,14 +6,13 @@ static const long long kill = LLONG_MIN;
 
         int m = coins.size();
         int n = coins[0].size();
-        ll  ans =kill;
+        ll  ans = kill;
         vector<vector<vector<ll>>> dp(m, vector<vector<ll>>(n, vector<ll>(3, kill)));
         // if(coins[0][0] < 0) dp[0][0][1] = 0; // -1 bullet
         // else  dp[0][0][0] = coins[0][0];
 
-        dp[0][0][0] = coins[0][0];          // don't neutralize
-        if(coins[0][0] < 0) 
-            dp[0][0][1] = 0;                // neutralize
+        dp[0][0][0] = coins[0][0];          // no kill
+        if(coins[0][0] < 0) dp[0][0][1] = 0;                // kill
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 for(int b =0;b<=2;b++){ // b here is the no. of bullets
@@ -22,8 +21,7 @@ static const long long kill = LLONG_MIN;
                     if (n>j+1) {
                         int val = coins[i][j + 1];
 
-                        dp[i][j + 1][b] = max(dp[i][j + 1][b],
-                                              dp[i][j][b] + val);
+                        dp[i][j + 1][b] = max(dp[i][j + 1][b], dp[i][j][b] + val);
 
                         if (val < 0 && b < 2) {
                             dp[i][j + 1][b + 1] = max(dp[i][j + 1][b + 1],
@@ -47,27 +45,25 @@ static const long long kill = LLONG_MIN;
             }
         }
         for (int b = 0; b <= 2; b++) ans = max(ans, dp[m - 1][n - 1][b]);
-        // if(m ==4 && n == 4)            
-       //cout << dp[3][3][1];
         return (int)ans;
     }
 };
 
 
-                    // if(n > j+ 1){
-                    //     ll next_bal = coins[i][j+1];
-                    //     for(int ammo = b; ammo<=2;ammo++){
-                    //        // if (dp[i][j][ammo] == kill) continue;
-                    //         ll new_bal = dp[i][j][ammo];
-                    //         if(next_bal <0 && ammo <2) {
-                    //             new_bal = max(new_bal, dp[i][j][ammo]);
-                    //         } else {
-                    //             new_bal = max(new_bal, next_bal + dp[i][j][ammo]);
-                    //         }
-                    //         dp[i][j+1][b] = max(dp[i][j+1][b], new_bal);
-                    //     }
-                    // }
-        
+        // if(n > j+ 1){
+        //     ll next_bal = coins[i][j+1];
+        //     for(int ammo = b; ammo<=2;ammo++){
+        //        // if (dp[i][j][ammo] == kill) continue;
+        //         ll new_bal = dp[i][j][ammo];
+        //         if(next_bal <0 && ammo <2) {
+        //             new_bal = max(new_bal, dp[i][j][ammo]);
+        //         } else {
+        //             new_bal = max(new_bal, next_bal + dp[i][j][ammo]);
+        //         }
+        //         dp[i][j+1][b] = max(dp[i][j+1][b], new_bal);
+        //     }
+        // }
+
         
 
         // for (int j = 1; j < n; j++) 
@@ -98,16 +94,17 @@ static const long long kill = LLONG_MIN;
         // //     }
         // // }
         // // return dp[0][0];
-                    // if(m > i + 1){
-                    //     ll next_bal = coins[i+1][j];
-                    //     for(int ammo = b; ammo<=2;ammo++){
-                    //        // if (dp[i][j][ammo] == kill) continue;
-                    //         ll new_bal = dp[i][j][ammo];
-                    //         if(next_bal < 0 && ammo < 2  ){
-                    //             new_bal = max(new_bal, dp[i][j][ammo]);
-                    //         } else {
-                    //             new_bal = max(new_bal, next_bal + dp[i][j][ammo]);
-                    //         }
-                    //         dp[i+1][j][b] = max(dp[i+1][j][b], new_bal);
-                    //     }
-                    // }
+        
+        // if(m > i + 1){
+        //     ll next_bal = coins[i+1][j];
+        //     for(int ammo = b; ammo<=2;ammo++){
+        //        // if (dp[i][j][ammo] == kill) continue;
+        //         ll new_bal = dp[i][j][ammo];
+        //         if(next_bal < 0 && ammo < 2  ){
+        //             new_bal = max(new_bal, dp[i][j][ammo]);
+        //         } else {
+        //             new_bal = max(new_bal, next_bal + dp[i][j][ammo]);
+        //         }
+        //         dp[i+1][j][b] = max(dp[i+1][j][b], new_bal);
+        //     }
+        // }
