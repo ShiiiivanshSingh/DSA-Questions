@@ -49,6 +49,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
