@@ -11,6 +11,7 @@
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -82,6 +84,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Queue
 |  |
 | ------- |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
