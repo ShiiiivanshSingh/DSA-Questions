@@ -26,10 +26,10 @@ public:
 // // works oly if w1 < w2  AND  h1 < h2
 // // both strictly increase.
 //     static bool check(vector<int>& a, vector<int>& b)  { // comparator func
-//     if (a[0] == b[0]) return a[1] > b[1];   // same width → height descending
+//     if (a[0] == b[0]) return a[1] > b[1];   // same width â height descending
 //     return a[0] < b[0];    
 //     // if widths are different
-//     // widths are equal tb → height descending
+//     // widths are equal tb â height descending
 //     }
 //     int maxEnvelopes(vector<vector<int>>& envelopes) {
 //         int n = envelopes.size();
