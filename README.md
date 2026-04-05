@@ -58,6 +58,7 @@
 | [0657-robot-return-to-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
 ## Matrix
 |  |
 | ------- |
