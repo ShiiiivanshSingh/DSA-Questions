@@ -29,6 +29,7 @@
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
