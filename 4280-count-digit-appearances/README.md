@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-digit-appearances">4280. Count Digit Appearances</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>digit</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-digit-appearances/">4280. Count Digit Appearances</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>digit</code>.</p>
 
 <p>Return the total number of times <code>digit</code> appears in the decimal representation of all elements in <code>nums</code>.</p>
 
