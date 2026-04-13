@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
@@ -165,6 +167,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Depth-First Search
