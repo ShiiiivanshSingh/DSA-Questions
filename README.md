@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
@@ -216,6 +217,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Sliding Window
