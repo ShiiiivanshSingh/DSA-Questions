@@ -27,6 +27,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1755-defuse-the-bomb](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [1755-defuse-the-bomb](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1755-defuse-the-bomb) |
 ## Monotonic Queue
 |  |
 | ------- |
