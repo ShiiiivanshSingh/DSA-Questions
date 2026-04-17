@@ -38,6 +38,7 @@
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
