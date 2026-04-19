@@ -31,6 +31,7 @@
 | [1755-defuse-the-bomb](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Sliding Window
 |  |
