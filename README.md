@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
@@ -272,4 +273,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
