@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2326-sum-of-scores-of-built-strings) |
