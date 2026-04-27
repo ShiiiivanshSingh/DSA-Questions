@@ -66,6 +66,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0657-robot-return-to-origin) |
@@ -130,6 +132,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
+| [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
