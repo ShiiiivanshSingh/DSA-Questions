@@ -18,6 +18,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
+| [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
@@ -196,6 +198,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
