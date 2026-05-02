@@ -84,6 +84,7 @@
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0299-bulls-and-cows) |
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -106,6 +107,7 @@
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [0299-bulls-and-cows](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0299-bulls-and-cows) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
 ## Matrix
