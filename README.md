@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
+| [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
@@ -145,6 +146,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
+| [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
