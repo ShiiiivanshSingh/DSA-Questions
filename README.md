@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
@@ -333,4 +334,8 @@
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

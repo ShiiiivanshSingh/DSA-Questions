@@ -18,8 +18,6 @@ public:
             tail = tail->next;
             len++;
         }
-
-
         tail -> next = head;
 
         k = k % len;
