@@ -247,11 +247,13 @@
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
+| [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 ## Union-Find
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
+| [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 ## Stack
 |  |
 | ------- |
@@ -343,4 +346,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
+## Tree
+|  |
+| ------- |
+| [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
