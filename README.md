@@ -44,6 +44,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2639-separate-the-digits-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
@@ -228,6 +229,7 @@
 | [2043-cyclically-rotating-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2178-walking-robot-simulation-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2178-walking-robot-simulation-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [2639-separate-the-digits-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
