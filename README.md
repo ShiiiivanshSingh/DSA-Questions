@@ -63,6 +63,7 @@
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
 ## Math
 |  |
 | ------- |
@@ -376,4 +377,8 @@
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
+## Enumeration
+|  |
+| ------- |
+| [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
 <!---LeetCode Topics End-->
