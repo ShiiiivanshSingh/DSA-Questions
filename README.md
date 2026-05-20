@@ -3,7 +3,7 @@
 # LeetCode Topics
 ## Array
 |  |
-| ------- | 
+| ------- |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
@@ -51,6 +51,7 @@
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2892-check-if-array-is-good) |
@@ -115,6 +116,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2892-check-if-array-is-good) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -385,4 +387,8 @@
 |  |
 | ------- |
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
