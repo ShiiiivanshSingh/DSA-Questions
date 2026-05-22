@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
@@ -322,6 +323,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
