@@ -379,6 +379,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 ## Recursion
 |  |
