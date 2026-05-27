@@ -39,6 +39,7 @@
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
 | [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
+| [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -167,6 +168,7 @@
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
+| [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -194,6 +196,7 @@
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
+| [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -215,6 +218,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
+| [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Queue
