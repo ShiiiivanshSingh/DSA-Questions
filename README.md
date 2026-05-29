@@ -66,6 +66,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -89,6 +90,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
