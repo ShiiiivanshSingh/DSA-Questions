@@ -65,6 +65,7 @@
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
+| [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -367,6 +368,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
+| [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,4 +438,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
