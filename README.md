@@ -72,6 +72,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3981-jump-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3981-jump-game-ix) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -108,6 +109,7 @@
 | [1972-rotating-the-box](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2892-check-if-array-is-good) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Queue
 |  |
 | ------- |
@@ -375,6 +379,7 @@
 | [2326-sum-of-scores-of-built-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
