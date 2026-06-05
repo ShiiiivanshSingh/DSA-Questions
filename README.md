@@ -102,6 +102,7 @@
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4168-mirror-distance-of-an-integer) |
+| [4321-digit-frequency-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4321-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4321-digit-frequency-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4321-digit-frequency-score) |
 ## String
 |  |
 | ------- |
