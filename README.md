@@ -59,6 +59,7 @@
 | [2550-words-within-two-edits-of-dictionary](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2639-separate-the-digits-in-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
@@ -309,6 +310,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
