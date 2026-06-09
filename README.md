@@ -31,6 +31,7 @@
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -95,6 +96,7 @@
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -132,6 +134,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
@@ -278,6 +281,7 @@
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0299-bulls-and-cows) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
 ## Matrix
@@ -370,6 +374,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
