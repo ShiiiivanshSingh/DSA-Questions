@@ -105,6 +105,7 @@
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
@@ -346,6 +347,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1428-jump-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1428-jump-game-iii) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -468,6 +470,7 @@
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Enumeration
 |  |
 | ------- |
