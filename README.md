@@ -76,6 +76,7 @@
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -105,6 +106,7 @@
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -240,6 +242,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3981-jump-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3981-jump-game-ix) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -347,6 +350,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1428-jump-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1428-jump-game-iii) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -470,6 +474,7 @@
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Enumeration
 |  |
@@ -481,6 +486,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 ## Memoization
 |  |
 | ------- |
