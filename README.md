@@ -135,6 +135,7 @@
 | [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0299-bulls-and-cows) |
@@ -277,6 +278,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0969-number-of-recent-calls) |
 | [2178-walking-robot-simulation-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2178-walking-robot-simulation-ii) |
@@ -472,6 +474,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 ## Tree
 |  |
 | ------- |
@@ -507,4 +510,8 @@
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
