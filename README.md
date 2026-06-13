@@ -88,6 +88,7 @@
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
+| [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
