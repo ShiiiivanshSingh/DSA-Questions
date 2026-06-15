@@ -125,6 +125,7 @@
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [1972-rotating-the-box](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
@@ -477,6 +478,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
