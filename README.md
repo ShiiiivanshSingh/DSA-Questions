@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0134-gas-station) |
@@ -454,6 +455,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 ## Recursion
