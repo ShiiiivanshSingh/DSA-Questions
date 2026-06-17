@@ -194,6 +194,7 @@
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 ## Sorting
 |  |
@@ -330,6 +331,7 @@
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3931-process-string-with-special-operations-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 ## Prefix Sum
