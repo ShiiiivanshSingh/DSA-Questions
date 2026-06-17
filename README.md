@@ -356,6 +356,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
@@ -368,6 +369,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
@@ -491,6 +493,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -523,6 +526,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0226-invert-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Doubly-Linked List
