@@ -51,6 +51,7 @@
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -107,6 +108,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
+| [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -215,6 +217,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2245-destroying-asteroids](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
