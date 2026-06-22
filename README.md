@@ -162,6 +162,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2340-total-appeal-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2340-total-appeal-of-a-string) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
@@ -195,6 +196,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2340-total-appeal-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2340-total-appeal-of-a-string) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
@@ -311,6 +313,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
 ## Matrix
 |  |
