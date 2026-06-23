@@ -262,6 +262,7 @@
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3981-jump-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3981-jump-game-ix) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -359,6 +360,7 @@
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
