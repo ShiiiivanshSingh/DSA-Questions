@@ -116,6 +116,7 @@
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -263,6 +264,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3981-jump-game-ix) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
