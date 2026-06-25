@@ -87,6 +87,7 @@
 | [3981-jump-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3981-jump-game-ix) |
 | [4005-maximum-total-subarray-value-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -172,6 +173,7 @@
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -318,6 +320,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -370,6 +374,7 @@
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0763-special-binary-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0763-special-binary-string) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -541,6 +546,7 @@
 | ------- |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -555,4 +561,8 @@
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
