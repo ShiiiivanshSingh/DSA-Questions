@@ -74,6 +74,7 @@
 | [2892-check-if-array-is-good](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2892-check-if-array-is-good) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
@@ -171,6 +172,7 @@
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2892-check-if-array-is-good) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -529,6 +531,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
 ## Bit Manipulation
