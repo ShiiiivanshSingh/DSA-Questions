@@ -52,6 +52,7 @@
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1972-rotating-the-box) |
@@ -231,6 +232,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2245-destroying-asteroids](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2245-destroying-asteroids) |
@@ -289,6 +291,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2245-destroying-asteroids) |
