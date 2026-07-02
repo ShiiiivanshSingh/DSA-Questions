@@ -82,6 +82,7 @@
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -349,6 +350,7 @@
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
@@ -418,6 +420,7 @@
 | [1447-jump-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1447-jump-game-iv) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -434,6 +437,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -462,6 +466,7 @@
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
@@ -591,4 +596,8 @@
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
