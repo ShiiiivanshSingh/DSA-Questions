@@ -86,6 +86,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -279,6 +280,7 @@
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3981-jump-game-ix) |
@@ -438,6 +440,7 @@
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -467,6 +470,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
@@ -482,6 +486,7 @@
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
@@ -600,4 +605,9 @@
 |  |
 | ------- |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
