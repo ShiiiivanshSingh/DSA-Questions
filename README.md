@@ -35,6 +35,7 @@
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
+| [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -266,6 +267,7 @@
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
@@ -344,6 +346,7 @@
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [2043-cyclically-rotating-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2043-cyclically-rotating-a-grid) |
