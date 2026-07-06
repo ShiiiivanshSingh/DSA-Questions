@@ -35,6 +35,7 @@
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
+| [1222-remove-covered-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
@@ -233,6 +234,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0763-special-binary-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0763-special-binary-string) |
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
+| [1222-remove-covered-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1222-remove-covered-intervals) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
