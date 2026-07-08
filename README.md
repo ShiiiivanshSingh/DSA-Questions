@@ -132,6 +132,7 @@
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4321-digit-frequency-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4321-digit-frequency-score) |
@@ -224,6 +225,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3939-process-string-with-special-operations-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 ## Sorting
 |  |
@@ -393,6 +395,7 @@
 | [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
