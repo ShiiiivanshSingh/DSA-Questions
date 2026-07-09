@@ -140,6 +140,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -560,6 +561,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
