@@ -426,6 +426,7 @@
 | [1428-jump-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1428-jump-game-iii) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -440,6 +441,7 @@
 | [1447-jump-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1447-jump-game-iv) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -451,6 +453,7 @@
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -461,6 +464,7 @@
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
