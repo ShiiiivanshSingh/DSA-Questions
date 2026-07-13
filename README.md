@@ -592,6 +592,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
