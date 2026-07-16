@@ -106,6 +106,7 @@
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
 | [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4168-mirror-distance-of-an-integer) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4321-digit-frequency-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4321-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -392,6 +396,7 @@
 | [3939-process-string-with-special-operations-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -487,6 +492,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
