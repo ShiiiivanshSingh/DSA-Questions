@@ -86,6 +86,7 @@
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -127,6 +128,7 @@
 | [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -196,6 +198,7 @@
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -359,6 +362,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -408,6 +412,7 @@
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
 | [3031-construct-product-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3031-construct-product-matrix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -490,6 +495,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -523,6 +529,7 @@
 | [2634-minimum-common-value](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2634-minimum-common-value) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
@@ -652,4 +659,8 @@
 |  |
 | ------- |
 | [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
