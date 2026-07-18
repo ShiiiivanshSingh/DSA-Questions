@@ -63,6 +63,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2043-cyclically-rotating-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -127,6 +128,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -495,6 +497,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
