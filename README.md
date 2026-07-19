@@ -224,6 +224,7 @@
 | [0657-robot-return-to-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0763-special-binary-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0763-special-binary-string) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -320,6 +321,7 @@
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
@@ -489,6 +491,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 ## Number Theory
@@ -506,6 +509,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
