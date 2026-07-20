@@ -40,6 +40,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
+| [1386-shift-2d-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1428-jump-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1428-jump-game-iii) |
@@ -377,6 +378,7 @@
 | [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
+| [1386-shift-2d-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1386-shift-2d-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [2043-cyclically-rotating-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2043-cyclically-rotating-a-grid) |
@@ -394,6 +396,7 @@
 | [0657-robot-return-to-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
+| [1386-shift-2d-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1386-shift-2d-grid) |
 | [2043-cyclically-rotating-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2178-walking-robot-simulation-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2178-walking-robot-simulation-ii) |
