@@ -51,6 +51,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1755-defuse-the-bomb](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1755-defuse-the-bomb) |
@@ -271,6 +272,7 @@
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -536,6 +538,7 @@
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
