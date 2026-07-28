@@ -251,6 +251,7 @@
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -283,6 +284,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2892-check-if-array-is-good) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -678,6 +680,7 @@
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1961-maximum-ice-cream-bars) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
