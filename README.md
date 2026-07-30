@@ -137,6 +137,7 @@
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -249,6 +250,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3019-furthest-point-from-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3019-furthest-point-from-origin) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -353,6 +355,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
