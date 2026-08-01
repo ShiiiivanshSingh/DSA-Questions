@@ -24,6 +24,7 @@
 | [0312-burst-balloons](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0312-burst-balloons) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
@@ -314,6 +316,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
@@ -615,6 +618,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 ## Interactive
 |  |
 | ------- |
@@ -622,6 +626,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
 ## Trie
 |  |
