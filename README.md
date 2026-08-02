@@ -35,6 +35,7 @@
 | [0876-hand-of-straights](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0876-hand-of-straights) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
+| [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1222-remove-covered-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1222-remove-covered-intervals) |
@@ -129,6 +130,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
+| [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1289-day-of-the-week](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1289-day-of-the-week) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
@@ -319,6 +321,7 @@
 | [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
@@ -628,6 +631,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
+| [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
 ## Trie
 |  |
 | ------- |
