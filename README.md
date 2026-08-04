@@ -112,6 +112,7 @@
 | [4007-maximum-total-subarray-value-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -225,6 +226,7 @@
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4107-find-missing-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -303,6 +305,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4107-find-missing-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
