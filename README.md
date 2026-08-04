@@ -55,6 +55,7 @@
 | [1522-stone-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1522-stone-game-iii) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1580-shuffle-the-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1755-defuse-the-bomb](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1755-defuse-the-bomb) |
