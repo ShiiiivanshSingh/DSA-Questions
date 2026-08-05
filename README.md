@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@
 | [0013-roman-to-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
@@ -545,6 +547,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
