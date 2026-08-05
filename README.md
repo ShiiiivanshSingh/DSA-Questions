@@ -56,6 +56,7 @@
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1522-stone-game-iii) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1580-shuffle-the-array) |
@@ -443,6 +444,7 @@
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0906-walking-robot-simulation) |
 | [1386-shift-2d-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1386-shift-2d-grid) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2043-cyclically-rotating-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2178-walking-robot-simulation-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2178-walking-robot-simulation-ii) |
@@ -547,6 +549,7 @@
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2846-robot-collisions) |
 ## Number Theory
