@@ -154,6 +154,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -682,6 +683,7 @@
 | ------- |
 | [1212-sequential-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
