@@ -59,6 +59,7 @@
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1522-stone-game-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1580-shuffle-the-array) |
@@ -355,6 +356,7 @@
 | [1503-reducing-dishes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1522-stone-game-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -778,4 +780,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0474-ones-and-zeroes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1569-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
