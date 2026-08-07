@@ -503,6 +503,7 @@
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [0871-keys-and-rooms](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1428-jump-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1428-jump-game-iii) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
@@ -519,6 +520,7 @@
 | [0365-water-and-jug-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
+| [0871-keys-and-rooms](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0871-keys-and-rooms) |
 | [1428-jump-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1447-jump-game-iv) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
@@ -543,6 +545,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0684-redundant-connection) |
+| [0871-keys-and-rooms](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1493-frog-position-after-t-seconds](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1493-frog-position-after-t-seconds) |
