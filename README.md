@@ -156,6 +156,7 @@
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -275,6 +276,7 @@
 | [3376-longest-common-suffix-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3376-longest-common-suffix-queries) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -385,6 +387,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -566,6 +569,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -642,6 +646,7 @@
 | [0051-n-queens](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
