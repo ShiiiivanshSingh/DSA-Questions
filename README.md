@@ -103,6 +103,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -364,6 +365,7 @@
 | [2340-total-appeal-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -451,6 +453,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3470-maximum-score-from-grid-operations](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
