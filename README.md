@@ -152,6 +152,7 @@
 | [1522-stone-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1522-stone-game-iii) |
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1585-the-kth-factor-of-n) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -361,6 +362,7 @@
 | [1571-allocate-mailboxes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1571-allocate-mailboxes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2340-total-appeal-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -667,6 +669,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -714,6 +717,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -723,6 +727,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Binary Indexed Tree
 |  |
 | ------- |
