@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> dpDos, dpTres;
-    
+
     int childUno(vector<vector<int>>& fruits) {
         int n = fruits.size();
         int child1 = 0; // no pooosbile mejora
@@ -16,13 +16,11 @@ public:
         if (dpDos[i][j] != -1) return dpDos[i][j];
         if (i == n - 1 && j == n - 1) return 0;
 
-        int child = max({
-            childDos(fruits, i + 1, j),
-            childDos(fruits, i + 1, j - 1),
-            childDos(fruits, i + 1, j + 1) });
+        int child2 = max({
+            childDos(fruits, i + 1, j), childDos(fruits, i + 1, j - 1), childDos(fruits, i + 1, j + 1) });
 
-        if (child == INT_MIN) return dpDos[i][j] = INT_MIN;
-        return dpDos[i][j] = fruits[i][j] + child;
+        if (child2 == INT_MIN) return dpDos[i][j] = INT_MIN;
+        return dpDos[i][j] = fruits[i][j] + child2;
         //return dpDos[i][j] = child2;
     }
 
@@ -30,18 +28,15 @@ public:
         
         int n = fruits.size();
         if (i < 0 || i >= n || j < 0 || j >= n) return INT_MIN;
-        if (j >= i && !(i == n - 1 && j == n - 1)) return INT_MIN;
-        int child3 = 0;
+        if (j >= i && !(i == n-1 && j == n-1)) return INT_MIN;
         if (dpTres[i][j] != -1) return dpTres[i][j];
-        if (i == n - 1 && j == n - 1) return 0;
+        if (i == n-1 && j == n-1) return 0;
 
-        int child = max({
-            childTres(fruits, i - 1, j + 1),
-            childTres(fruits, i,     j + 1),
-            childTres(fruits, i + 1, j + 1) });
+        int child3 = max({
+            childTres(fruits,i -1,j+ 1), childTres(fruits, i,j+ 1), childTres(fruits, i+1, j+1)});
 
-        if (child == INT_MIN) return dpTres[i][j] = INT_MIN;
-        return dpTres[i][j] = fruits[i][j] + child;
+        if (child3 == INT_MIN) return dpTres[i][j] = INT_MIN;
+        return dpTres[i][j] = fruits[i][j] + child3;
     }
 
     int maxCollectedFruits(vector<vector<int>>& fruits) {
