@@ -125,6 +125,7 @@
 | [4214-count-dominant-indices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4214-count-dominant-indices) |
 | [4216-weighted-word-mapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4294-maximize-fixed-points-after-deletions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Math
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4107-find-missing-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4294-maximize-fixed-points-after-deletions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Database
 |  |
 | ------- |
@@ -613,6 +615,7 @@
 | [3919-network-recovery-pathways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4294-maximize-fixed-points-after-deletions](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4294-maximize-fixed-points-after-deletions) |
 ## Sliding Window
 |  |
 | ------- |
