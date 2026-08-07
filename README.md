@@ -26,6 +26,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0498-diagonal-traverse) |
@@ -257,6 +258,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0657-robot-return-to-origin) |
 | [0763-special-binary-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0763-special-binary-string) |
@@ -341,6 +343,7 @@
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0396-rotate-function) |
+| [0474-ones-and-zeroes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -767,4 +770,12 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->

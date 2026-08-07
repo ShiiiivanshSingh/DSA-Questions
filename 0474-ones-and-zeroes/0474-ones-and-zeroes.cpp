@@ -1,18 +1,29 @@
 class Solution {
 public:
-    int findMaxForm(vector<string>& strs, int m, int n) {
-        vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
-        for (const string &s : strs) {
-            int z = 0, o = 0;
-            for (char c : s) (c == '0') ? ++z : ++o;
+  vector<vector<vector<int>>> dp;
 
-            for (int i = m; i >= z; --i) {
-                for (int j = n; j >= o; --j) {
-                    dp[i][j] = max(dp[i][j], dp[i - z][j - o] + 1);
-                    
-                }
-            }
+    int solve(int index, int zerosLeft, int onesLeft, vector<string>& strs) {
+        if (index == strs.size())   return 0;
+          if (dp[index][zerosLeft][onesLeft] != -1)   return dp[index][zerosLeft][onesLeft];
+
+        string curr= strs[index];
+        int zero =0, one =0;
+        for(char c: curr){
+            if (c == '0')  zero++;
+            if (c == '1')  one++;
         }
-        return dp[m][n];
+        int skip = solve(index + 1, zerosLeft, onesLeft, strs);
+        int pick = 0;
+        if(zerosLeft >= zero && onesLeft >= one) 
+            pick =  1 + solve(index + 1, zerosLeft- zero, onesLeft - one, strs);
+        return dp[index][zerosLeft][onesLeft] = max(pick, skip);
+        //return  max(pick, skip);
+    }
+
+    int findMaxForm(vector<string>& strs, int m, int n) {
+        dp.assign(strs.size(),
+            vector<vector<int>>(m + 1, vector<int>(n + 1, -1))
+        );
+        return solve(0, m, n, strs);
     }
 };
