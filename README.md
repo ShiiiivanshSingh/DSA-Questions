@@ -256,6 +256,7 @@
 | [0038-count-and-say](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |

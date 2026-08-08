@@ -1,24 +1,16 @@
 class Solution {
 public:
-    int ways(string s, int i,vector<int> &memo){
-        if( i == s.size()) return 1;
-      
-        if(memo[i] != -1) return memo[i];
-        
-        if(s[i]=='0') return 0; 
-
-        int final = ways(s , i+1,memo);
-
-        if(i+1<s.size()){ 
-            int ans = ((s[i] - '0')*10 + (s[i+1] - '0'));
-            if(ans>=10 && ans<=26)        final += ways(s ,i+2, memo);
-        }
-    return memo[i] = final;
+        vector<int> dp;
+    int solve(int i , string &s){
+        if(i == s.size()) return 1;
+        if(s[i] == '0') return 0;
+        if (dp[i] != -1) return dp[i];
+        int dig_1 = solve(i+1,s), dig_2 = 0;
+        if (i + 1 < s.size() && (s[i] == '1' || (s[i] == '2' && s[i + 1] <= '6')))  dig_2 = solve(i + 2,s);
+        return dp[i] = dig_1 + dig_2;
     }
-
-
     int numDecodings(string s) {
-        vector<int> memo(s.size(), -1);
-        return ways(s, 0, memo);
+        dp.assign(s.size() , -1);
+        return solve(0, s);
     }
 };
