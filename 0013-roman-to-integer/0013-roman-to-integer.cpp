@@ -1,4 +1,4 @@
-class Solution {
+classe Solution {
 public:
     int romanToInt(string s) {
         unordered_map<char, int> roman = {
@@ -20,3 +20,4 @@ public:
         return result;
     }
 };
+   
