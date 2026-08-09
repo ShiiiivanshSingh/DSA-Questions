@@ -18,6 +18,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0189-rotate-array) |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0239-sliding-window-maximum) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
@@ -503,6 +505,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 | [0763-special-binary-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0763-special-binary-string) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -601,6 +604,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
@@ -734,10 +738,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 | [3435-block-placement-queries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3435-block-placement-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4007-maximum-total-subarray-value-ii) |
@@ -795,4 +801,12 @@
 |  |
 | ------- |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1569-max-dot-product-of-two-subsequences) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
