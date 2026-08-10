@@ -148,6 +148,7 @@
 | [0873-guess-the-word](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0873-guess-the-word) |
 | [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1103-moving-stones-until-consecutive](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1103-moving-stones-until-consecutive) |
 | [1289-day-of-the-week](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1289-day-of-the-week) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -823,7 +824,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
@@ -831,4 +832,8 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
+## Brainteaser
+|  |
+| ------- |
+| [1103-moving-stones-until-consecutive](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1103-moving-stones-until-consecutive) |
 <!---LeetCode Topics End-->
