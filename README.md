@@ -43,6 +43,7 @@
 | [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1222-remove-covered-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -357,6 +358,7 @@
 | [0804-rotated-digits](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0804-rotated-digits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0909-stone-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0909-stone-game) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1466-jump-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1466-jump-game-v) |
@@ -492,6 +494,7 @@
 | [0238-product-of-array-except-self](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0724-find-pivot-index) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2721-sum-of-distances) |
@@ -820,7 +823,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
