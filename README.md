@@ -44,6 +44,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1039-find-the-town-judge) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1127-last-stone-weight](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1127-last-stone-weight) |
 | [1222-remove-covered-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -616,6 +617,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0794-swim-in-rising-water](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1127-last-stone-weight](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1127-last-stone-weight) |
 | [1489-pizza-with-3n-slices](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1489-pizza-with-3n-slices) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -825,7 +827,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
