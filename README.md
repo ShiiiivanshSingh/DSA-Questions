@@ -72,6 +72,7 @@
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1755-defuse-the-bomb](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1755-defuse-the-bomb) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1808-stone-game-vii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1808-stone-game-vii) |
 | [1833-find-the-highest-altitude](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -161,6 +162,7 @@
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1808-stone-game-vii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1808-stone-game-vii) |
 | [1968-maximum-building-height](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1968-maximum-building-height) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -378,6 +380,7 @@
 | [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1808-stone-game-vii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1808-stone-game-vii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2340-total-appeal-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2340-total-appeal-of-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -702,6 +705,7 @@
 | [1522-stone-game-iii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
+| [1808-stone-game-vii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1808-stone-game-vii) |
 ## Trie
 |  |
 | ------- |
@@ -827,11 +831,12 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
+| [1808-stone-game-vii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1808-stone-game-vii) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
@@ -839,6 +844,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1617-stone-game-iv) |
+| [1808-stone-game-vii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1808-stone-game-vii) |
 ## Brainteaser
 |  |
 | ------- |
