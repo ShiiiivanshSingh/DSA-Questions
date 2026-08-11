@@ -1,45 +1,32 @@
 class Solution {
 public:
-
-int start =0, len =0;
-
-    void wess(string s,int left, int right){
-        while(left>=0 && right<s.size() && s[left] == s[right]){
-            if(right - left+ 1 > len) {
-                len= right - left+ 1;
-                start = left;
-            }
-            left--; right++;
-        }
-    }
-
     string longestPalindrome(string s) {
-        for(int i=0;i<s.size();i++){
-        wess(s, i,i);
-        wess(s, i,i+1);
+
+        string t = "^#";
+        for (char c : s) {
+            t += c;
+            t += '#';
         }
-        return s.substr(start,len);
+
+        t += '$';
+        vector<int> p(t.size(), 0);
+        int L = 0, R = 0,best = 0, center = 0;
+        for (int i = 1; i < t.size() - 1; i++) {
+            int mirror = L + R - i;
+            if (i < R)   p[i] = min(R - i, p[mirror]);
+            else p[i] = 0;
+         //   p[i] = min(R - i, p[mirror]);
+            while (t[i + p[i] + 1] == t[i - p[i] - 1]) p[i]++;
+            if (i + p[i] > R) {
+                L = i - p[i];
+                R = i + p[i];
+            }
+            if (p[i] > best) {
+                best = p[i];
+                center = i;
+            }
         }
-    };
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // int left = 0, right  =s.size()-1;
-
-        // while(left<=right){
-        //     if(s[left] == s[right]){
-        //         left++;
-        //         right--;
-        //     }
-        // }
-        // return s;
+        int start = (center - best) / 2;
+        return s.substr(start, best);
+    }
+};
