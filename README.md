@@ -17,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Depth-First Search
 |  |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Heuristic Search
+|  |
+| ------- |
+| [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
 <!---LeetCode Topics End-->
