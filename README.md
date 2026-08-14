@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -53,4 +54,20 @@
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Math
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
