@@ -10,10 +10,12 @@
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
+## String
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
