@@ -7,6 +7,7 @@
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
