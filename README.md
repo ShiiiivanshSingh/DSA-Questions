@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -22,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Depth-First Search
@@ -47,10 +49,12 @@
 ## Heuristic Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
 ## A* Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
 ## String
 |  |
@@ -101,4 +105,24 @@
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
+## Memoization
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
+## Matrix
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
