@@ -6,6 +6,7 @@
 | ------- |
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
+| [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -125,4 +127,20 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
+## Design
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
+## Trie
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
+## Data Stream
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
+## AhoâCorasick Algorithm
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->
