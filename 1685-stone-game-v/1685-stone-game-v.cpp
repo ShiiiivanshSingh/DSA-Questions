@@ -2,7 +2,7 @@ class Solution {
 public:
     int stoneGameV(vector<int>& stoneValue) {
         int n = stoneValue.size();
-        int left = 0 , right = n -1, alice =0;
+       // int left = 0 , right = n -1, alice =0;
         vector<vector<int>> dp(n, vector<int>(n, 0));
         vector<int> prefix(n + 1, 0);
 

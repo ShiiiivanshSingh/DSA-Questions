@@ -7,6 +7,7 @@
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
+| [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
+| [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Depth-First Search
 |  |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
+| [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 ## Geometry
 |  |
@@ -98,6 +101,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -139,7 +143,7 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoâCorasick Algorithm
+## AhoÃ¢ÂÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
