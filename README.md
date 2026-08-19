@@ -7,6 +7,7 @@
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
+| [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -16,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -87,10 +89,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
@@ -145,7 +149,7 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoÃÂÃÂ¢ÃÂÃÂÃÂÃÂCorasick Algorithm
+## AhoÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
