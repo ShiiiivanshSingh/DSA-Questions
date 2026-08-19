@@ -41,23 +41,20 @@ class StreamChecker {
 public:
     struct Node {
         Node* child[26] = {};
-        bool end = false;
+        bool end = 0;
     };
-
+//
     Node* root;
     string stream;
     int maxLen = 0;
-
     StreamChecker(vector<string>& words) {
         root = new Node();
 
         for (string word : words) {
             maxLen = max(maxLen, (int)word.size());
             Node* cur = root;
-
             for (int i = word.size() - 1; i >= 0; i--) {
                 int c = word[i] - 'a';
-
                 if (!cur->child[c])   cur->child[c] = new Node();
                 cur = cur->child[c];
             }
