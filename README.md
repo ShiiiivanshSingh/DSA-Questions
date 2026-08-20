@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0587-erect-the-fence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0587-erect-the-fence) |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
@@ -30,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0787-sliding-puzzle](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0836-race-car](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0836-race-car) |
 | [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
@@ -150,11 +152,11 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
+## AhoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoÃ¢ÂÂCorasick Algorithm
+## AhoÃÂ¢ÃÂÃÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
@@ -162,4 +164,16 @@
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
+## Sorting
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
