@@ -12,6 +12,7 @@
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -149,12 +150,16 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
+## AhoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoâCorasick Algorithm
+## AhoÃ¢ÂÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
+## Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
