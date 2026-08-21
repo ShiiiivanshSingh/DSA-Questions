@@ -14,6 +14,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -79,6 +80,7 @@
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0923-super-egg-drop) |
 | [1685-stone-game-v](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2156-stone-game-ix) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Geometry
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1487-cinema-seat-allocation) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -154,11 +157,11 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
+## AhoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
-## AhoÃÂÃÂ¢ÃÂÃÂÃÂÃÂCorasick Algorithm
+## AhoÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1097-stream-of-characters) |
@@ -171,6 +174,7 @@
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0923-super-egg-drop](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0923-super-egg-drop) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -179,4 +183,12 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0354-russian-doll-envelopes) |
+## Combinatorics
+|  |
+| ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
