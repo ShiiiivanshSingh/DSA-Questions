@@ -19,36 +19,42 @@
 using ll = long long;
 class Solution {
 public:
+
     ll findKthSmallest(vector<int>& coins, int k) {
         auto check = [&](ll x) {
             ll cnt = 0;
             for (int i = 1; i < (1 << coins.size()); i++) {
-                ll l = 1;
+                ll temp  = 1;
                 int bits = 0;
 
-                for (int j = 0; j < coins.size(); j++) {
+                for (int j = 0; j< coins.size(); j++) {
                     if (i >> j & 1) {
                         bits++;
-                        l = lcm(l, (ll)coins[j]);
-                        if (l > x) break;
+                        temp  = lcm(temp , (ll)coins[j]);
+                        if (temp  > x) break;
                     }
                 }
 
-                if (l <= x)
-                    cnt += (bits & 1 ? 1 : -1) * (x / l);
+
+                if (temp  <= x)
+                    cnt += (bits & 1 ? 1 : -1) * (x / temp );
             }
 
             return cnt >= k;
         };
 
-        ll l = 1, r = 1LL * *min_element(coins.begin(), coins.end()) * k;
 
-        while (l < r) {
-            ll m = (l + r) / 2;
+
+
+        ll temp  = 1, r = 1LL * *min_element(coins.begin(), coins.end()) * k;
+
+
+        while (temp  < r) {
+            ll m = (temp  + r) / 2;
             if (check(m)) r = m;
-            else l = m + 1;
+            else temp  = m + 1;
         }
 
-        return l;
+        return temp ;
     }
 };
