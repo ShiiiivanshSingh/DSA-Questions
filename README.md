@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 ## Memoization
 |  |
 | ------- |
