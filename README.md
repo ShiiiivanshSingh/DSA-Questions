@@ -131,4 +131,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1452-restaurant-growth](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
