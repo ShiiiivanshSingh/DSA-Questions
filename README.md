@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -122,4 +123,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
