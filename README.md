@@ -58,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -66,6 +67,7 @@
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Tree
@@ -149,4 +153,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
