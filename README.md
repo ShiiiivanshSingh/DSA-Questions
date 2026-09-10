@@ -134,6 +134,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0595-big-countries) |
 | [1452-restaurant-growth](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
