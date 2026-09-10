@@ -101,12 +101,15 @@
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
