@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -55,6 +56,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -73,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
