@@ -32,6 +32,7 @@
 | [0055-jump-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -91,6 +93,7 @@
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Tree
 |  |
