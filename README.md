@@ -74,6 +74,7 @@
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -112,6 +113,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
