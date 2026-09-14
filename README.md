@@ -20,6 +20,7 @@
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
+| [0866-rectangle-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
