@@ -2,23 +2,24 @@ class Solution {
 public:
     int minMoves(int sx, int sy, int tx, int ty) {
         int moves = 0;
+
         while (sx != tx || sy != ty){
             //if(tx == sx && ty == sy) return moves;
+            // wallahi what is this problem wallahhi
             if (sx > tx || sy > ty) return -1;
             if (tx == 0) {
 
                 if (sx != 0) return -1;
                 if (ty & 1) return -1;
-
                 ty = ty / 2;
                 moves++;
                 continue;
             }
+
             if (ty == 0) {
 
                 if (sy != 0)  return -1;
                 if (tx & 1) return -1;
-
                 tx = tx / 2;
                 moves++;
                 continue;
@@ -37,6 +38,7 @@ public:
                     ty = ty / 2;
                 } else ty = ty - tx;
             }
+            
             else {
 
                 if (sx == 0)
