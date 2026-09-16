@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -34,6 +35,7 @@
 | [0055-jump-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -123,6 +125,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4284-smallest-stable-index-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4285-smallest-stable-index-ii) |
 ## Binary Search
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0866-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
