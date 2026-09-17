@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
@@ -137,6 +138,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
