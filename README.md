@@ -37,6 +37,7 @@
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -83,6 +84,7 @@
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
+| [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -194,4 +196,16 @@
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Queue
+|  |
+| ------- |
+| [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 <!---LeetCode Topics End-->
