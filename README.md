@@ -147,6 +147,7 @@
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -157,6 +158,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Quicksort
@@ -208,9 +210,22 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
