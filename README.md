@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3922-minimum-moves-to-reach-target-in-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 | [4245-count-commas-in-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4245-count-commas-in-range) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
