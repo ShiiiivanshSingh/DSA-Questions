@@ -27,6 +27,7 @@
 | [1289-day-of-the-week](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1289-day-of-the-week) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 | [3922-minimum-moves-to-reach-target-in-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 | [4245-count-commas-in-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4245-count-commas-in-range) |
@@ -80,6 +81,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
