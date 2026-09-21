@@ -27,6 +27,7 @@
 | [1289-day-of-the-week](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1289-day-of-the-week) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 | [3922-minimum-moves-to-reach-target-in-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 | [4245-count-commas-in-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4248-count-commas-in-range-ii) |
@@ -47,6 +48,7 @@
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4258-construct-uniform-parity-array-ii) |
