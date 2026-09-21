@@ -100,6 +100,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
