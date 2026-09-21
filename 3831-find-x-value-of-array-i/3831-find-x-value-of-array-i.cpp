@@ -17,5 +17,6 @@ public:
                 ans[r] += dp[r];
         }
         return ans;
+        //solved by thakur shivansh pratapn singh kalhans
     }
 };
