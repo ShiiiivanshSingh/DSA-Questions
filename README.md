@@ -70,6 +70,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -111,6 +112,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
+| [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
