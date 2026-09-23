@@ -198,6 +198,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -212,6 +214,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -302,4 +305,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
