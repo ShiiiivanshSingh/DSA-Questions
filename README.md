@@ -95,6 +95,7 @@
 | [0075-sort-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
+| [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -148,6 +149,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
