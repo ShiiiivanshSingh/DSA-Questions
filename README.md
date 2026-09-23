@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -149,6 +151,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
