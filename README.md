@@ -31,6 +31,7 @@
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3840-find-x-value-of-array-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3922-minimum-moves-to-reach-target-in-grid](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 | [4245-count-commas-in-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4248-count-commas-in-range-ii) |
@@ -128,6 +129,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3840-find-x-value-of-array-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4258-construct-uniform-parity-array-ii) |
