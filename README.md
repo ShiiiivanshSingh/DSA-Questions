@@ -119,6 +119,7 @@
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0792-binary-search) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -196,6 +197,7 @@
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0792-binary-search) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4303-count-k-th-roots-in-a-range) |
