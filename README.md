@@ -9,6 +9,7 @@
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3811-reverse-degree-of-a-string) |
@@ -68,6 +69,7 @@
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -125,6 +127,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2756-buy-two-chocolates](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
