@@ -53,6 +53,7 @@
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0162-find-peak-element](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0792-binary-search) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
@@ -182,6 +185,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -190,6 +194,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0064-minimum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -225,6 +230,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -345,4 +351,16 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
