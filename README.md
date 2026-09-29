@@ -190,6 +190,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -238,6 +239,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -309,6 +311,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 ## Monotonic Queue
@@ -362,6 +365,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -374,4 +378,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
