@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -316,6 +318,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
