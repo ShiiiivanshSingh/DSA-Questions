@@ -4,6 +4,7 @@ public:
         stack<char> st;
       //  unordered_map<char, char> seq = {{'(', ')'}, {'{', '}'}, {'[', ']'}};
       unordered_map<char, char> seq = {{')', '('}, {'}', '{'}, {']', '['}};
+      
         for (char c : s) {
             if (c == '(' || c == '[' || c == '{')
                 st.push(c);
@@ -15,5 +16,6 @@ public:
         }
 
         return st.empty();
+        //coded by Thakur Shivansh Pratap singh kalhans
     }
 };
