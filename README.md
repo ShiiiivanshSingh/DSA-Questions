@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0064-minimum-path-sum) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -362,6 +365,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 ## Graph Theory
