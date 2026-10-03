@@ -7,13 +7,12 @@ public:
 
 
         for(int  i = 0 ; i< (int)s.size() ; i++){
-            if(s[i] == '('){
-                st.push(i);
-            }
+            if(s[i] == '(')   st.push(i);
+            
             else{
                 st.pop();
-                if(st.empty())  st.push(i);
-                else maxlen =  max(maxlen ,  i - st.top());
+                if(st.empty())   st.push(i);
+                else maxlen =  max(maxlen ,i - st.top());
             }
         }
             return maxlen;
