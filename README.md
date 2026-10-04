@@ -144,6 +144,7 @@
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
+| [1206-corporate-flight-bookings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1206-corporate-flight-bookings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
+| [1206-corporate-flight-bookings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1206-corporate-flight-bookings) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4284-smallest-stable-index-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4284-smallest-stable-index-i) |
