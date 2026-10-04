@@ -143,6 +143,7 @@
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -171,6 +172,7 @@
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
+| [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2756-buy-two-chocolates](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2756-buy-two-chocolates) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4284-smallest-stable-index-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4284-smallest-stable-index-i) |
@@ -328,6 +331,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 ## Monotonic Queue
 |  |
@@ -354,6 +358,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [3811-reverse-degree-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
