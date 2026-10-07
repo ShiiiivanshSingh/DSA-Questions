@@ -8,6 +8,7 @@
 | [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0886-score-of-parentheses) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -386,6 +388,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 ## Graph Theory
 |  |
