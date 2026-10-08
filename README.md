@@ -13,6 +13,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -83,6 +84,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -105,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -146,6 +149,7 @@
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1206-corporate-flight-bookings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
