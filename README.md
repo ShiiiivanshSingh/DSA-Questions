@@ -189,6 +189,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -313,6 +314,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0053-maximum-subarray) |
 ## Pigeonhole Principle
 |  |
@@ -343,6 +345,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
@@ -422,4 +425,12 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0744-network-delay-time) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
