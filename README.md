@@ -69,6 +69,7 @@
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3831-find-x-value-of-array-i) |
 ## Memoization
@@ -102,6 +103,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2756-buy-two-chocolates](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -202,6 +204,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
