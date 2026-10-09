@@ -19,6 +19,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -102,6 +103,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -296,6 +298,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -308,6 +311,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
