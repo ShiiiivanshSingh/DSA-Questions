@@ -105,6 +105,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2756-buy-two-chocolates](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2756-buy-two-chocolates) |
@@ -162,6 +163,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2756-buy-two-chocolates](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -188,6 +190,7 @@
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2756-buy-two-chocolates](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2756-buy-two-chocolates) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -249,6 +252,7 @@
 | [0441-arranging-coins](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0792-binary-search) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [4303-count-k-th-roots-in-a-range](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/4303-count-k-th-roots-in-a-range) |
 ## Tree
@@ -359,6 +363,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1814-jump-game-vi](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1814-jump-game-vi) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
