@@ -12,6 +12,7 @@
 | [0443-string-compression](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0886-score-of-parentheses) |
+| [0974-reorder-data-in-log-files](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
@@ -155,6 +156,7 @@
 | [0792-binary-search](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0792-binary-search) |
 | [0864-image-overlap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0864-image-overlap) |
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
+| [0974-reorder-data-in-log-files](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0974-reorder-data-in-log-files) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
@@ -189,6 +191,7 @@
 | [0056-merge-intervals](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
+| [0974-reorder-data-in-log-files](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0974-reorder-data-in-log-files) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1188-brace-expansion-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
