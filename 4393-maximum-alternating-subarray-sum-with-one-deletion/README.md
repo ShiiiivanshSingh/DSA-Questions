@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/">4393. Maximum Alternating Subarray Sum With One Deletion</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion">4393. Maximum Alternating Subarray Sum With One Deletion</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>You may delete <strong>at most one</strong> element from <code>nums</code>, then choose a <strong><span data-keyword="subarray-nonempty">subarray</span></strong> of the resulting array.</p>
 
