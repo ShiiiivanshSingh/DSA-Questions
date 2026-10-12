@@ -215,6 +215,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0461-hamming-distance) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
