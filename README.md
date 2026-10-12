@@ -103,6 +103,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0890-lemonade-change) |
+| [1139-previous-permutation-with-one-swap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1139-previous-permutation-with-one-swap) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -159,6 +160,7 @@
 | [0974-reorder-data-in-log-files](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/0974-reorder-data-in-log-files) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1139-previous-permutation-with-one-swap](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1139-previous-permutation-with-one-swap) |
 | [1184-car-pooling](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1206-corporate-flight-bookings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ShiiiivanshSingh/DSA-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
