@@ -1,0 +1,23 @@
+// Last updated: 10/15/2026, 12:41:19 PM
+class Solution {
+public:
+    int passwordStrength(string password) {
+        int ans = 0;
+        unordered_set<char> st;
+
+        for (char c : password) {
+            if (st.count(c)) 
+                continue;
+
+            st.insert(c);
+
+            if (c >= 'a' && c <= 'z') ans += 1;
+            else if (c >= 'A' && c <= 'Z')  ans += 2;
+            else if (c >= '0' && c <= '9') ans += 3;
+            else ans += 5;
+            
+        }
+
+        return ans;
+    }
+};
