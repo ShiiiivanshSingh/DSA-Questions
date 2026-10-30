@@ -44,7 +44,6 @@ public:
                 int ncost = cost + weight;
 
                 if (nstreak <= k) {
-                    // Compute the flattened index for the neighbor's state
                     int next_idx = ngbr * stride + nstreak;
 
                     if (ncost < dist[next_idx]) {
